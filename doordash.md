@@ -25,7 +25,6 @@ There is a wide range of customer insights from the data found online.
 </ul> 
 
 <img src="images/DoorDash_Summary_2.png?raw=true"/>
-
 <ul>
   <li>6.88 years is the average customer use</li>
   <li>The least spent is $4.00; the most spent is $2,491.00</li>
