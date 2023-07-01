@@ -17,14 +17,20 @@ The chance to look at the data has not only given me insights into the type of c
 There is a wide range of customer insights from the data found online.
 
 <img src="images/DoorDash_Summary_1.png?raw=true"/>
-- There are 2,205 customers
-- The oldest customer is 80 years old, while the youngest is 24
-- The total spent was $1,240,896.00
-- The average spent was $562.76
+<ul>
+  <li>There are 2,205 customers</li>
+  <li>The oldest customer is 80 years old, while the youngest is 24</li>
+  <li>The total spent was $1,240,896.00</li>
+  <li>The average spent was $562.76</li>
+</ul> 
 
 <img src="images/DoorDash_Summary_2.png?raw=true"/>
-- 6.88 years is the average customer use
-- The least spent is $4.00; the most spent is $2,491.00
+
+<ul>
+  <li>6.88 years is the average customer use</li>
+  <li>The least spent is $4.00; the most spent is $2,491.00</li>
+</ul> 
+
 
 
 
