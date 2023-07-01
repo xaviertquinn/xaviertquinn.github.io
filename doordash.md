@@ -1,4 +1,4 @@
-<img src="images/DoorDash_case.png?raw=true"/>
+<img src="images/DoorDash_CaseStudy.png?raw=true"/>
 
 ## DoorDash Analytics
 
