@@ -1,8 +1,8 @@
 title: Xavier Quinn # your name (or website title) here
-logo: "/images/profile-pic(4).png" # your photo (or logo) here
+logo: "/images/profile-pic(4).png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data analyst 
-  I want some pizza  <br><br>
+  Data analyst  <br><br>
+  Love numbers, music, and the ocean  <br><br>
   <a href="https://www.linkedin.com/in/xaviertquinn/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
