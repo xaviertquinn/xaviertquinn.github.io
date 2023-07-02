@@ -5,8 +5,8 @@
 ### My Projects
 <img src="images/DoorDash_CaseStudy.png?raw=true"/>
 #### [DoorDash Excel Project](/doordash)
-
 In this project, I analyze a 2.2k dataset for marketing insights that will increase the customer base and company revenue.
+
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
