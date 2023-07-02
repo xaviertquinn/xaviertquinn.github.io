@@ -3,36 +3,35 @@
 ---
 
 ### My Projects
+
 <img src="images/DoorDash_CaseStudy.png?raw=true"/>
 #### [DoorDash Excel Project](/doordash)
-In this project, I analyze a 2.2k dataset for marketing insights that will increase the customer base and company revenue.
+In this project, I used Excel to analyze a 2.2k dataset for marketing insights that will increase the customer base and company revenue. I focused on:
+<ul>
+  <li>The age range of customers</li>
+  <li>The total amount spent</li>
+  <li>The average amount spent</li>
+  <li>The average customer use length</li>
+</ul>
+The marketing insights provided at the end of the analysis list the demographics of customers that should be focused on for future campaigns.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<img src="images/DoorDash_CaseStudy.png?raw=true"/>
+#### [Massachusetts School Project](/massachusetts)
+Massachusetts School Tableau Project
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+<img src="images/DoorDash_CaseStudy.png?raw=true"/>
+#### [Banking Project](/banking)
+Banking SQL Project
 
 ---
 
-### Category Name 2
+### LinkedIn Articles
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [DoorDash Project](http://example.com/)
+- [Massachusetts School Project](http://example.com/)
+- [Banking Project](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
