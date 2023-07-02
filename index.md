@@ -3,7 +3,7 @@
 ---
 
 ### My Projects
-
+<img src="images/DoorDash_CaseStudy.png?raw=true"/>
 #### [Internal Blog Post Project](/bank)
 
 Tolulope is the best
