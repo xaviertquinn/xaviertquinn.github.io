@@ -4,8 +4,8 @@
 
 ### My Projects
 
-#### [Internal Blog Post Project](/doordash)
-<img src="images/DoorDash_CaseStudy.png?raw=true"/>
+#### [Internal Blog Post Project](/bank)
+
 Tolulope is the best
 
 ---
