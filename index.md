@@ -1,5 +1,7 @@
 # Welcome to My Portfolio
 
+### [About me](/aboutme)
+
 ---
 
 ### My Projects
@@ -25,14 +27,16 @@ Coming soon
 
 ---
 
-### LinkedIn Articles (links coming soon)
+### LinkedIn Articles
 
-- [DoorDash Project](http://example.com/)
-- [Massachusetts School Project](http://example.com/)
-- [Banking Project](http://example.com/)
+- [DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)
+- [Massachusetts School Project (link coming soon)](http://example.com/)
+- [Banking Project (link coming soon)](http://example.com/)
 
 ---
 
+### [My resume](files/resume.pdf)
 
+---
 
 
