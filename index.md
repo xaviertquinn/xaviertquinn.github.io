@@ -18,11 +18,11 @@ In this project, I used Excel to analyze a 2.2k dataset for marketing insights t
 The marketing insights provided at the end of the analysis list the demographics of customers that should be focused on for future campaigns.
 
 ---
-#### [Massachusetts School Project](/massachusetts)
+#### [Massachusetts School Project](/bank)
 Coming soon
 
 ---
-#### [Banking Project](/banking)
+#### [Banking Project](/bank)
 Coming soon
 
 ---
