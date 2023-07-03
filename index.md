@@ -18,11 +18,11 @@ In this project, I used Excel to analyze a 2.2k dataset for marketing insights t
 The marketing insights provided at the end of the analysis list the demographics of customers that should be focused on for future campaigns.
 
 ---
-#### [Massachusetts School Project](/bank)
+#### [Massachusetts School Project](/link)
 Coming soon
 
 ---
-#### [Banking Project](/bank)
+#### [Banking Project](/link)
 Coming soon
 
 ---
@@ -30,8 +30,8 @@ Coming soon
 ### LinkedIn Articles
 
 - [DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)
-- [Massachusetts School Project (link coming soon)](http://example.com/)
-- [Banking Project (link coming soon)](http://example.com/)
+- [Massachusetts School Project (link coming soon)](/link)
+- [Banking Project (link coming soon)](/link)
 
 ---
 
