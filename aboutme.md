@@ -3,8 +3,6 @@
 ---
 ### Hi, I'm Xavier
 
-<img src="images/profile-pic(4).png?raw=true"/>
-
 ---
 ☎️ I spent a year working in Customer Service while searching for the right path for me
 
@@ -29,15 +27,13 @@ In these courses, I've used the following skills to complete projects:
 
 ---
 I've programmed and visualized the following projects:
-<ul>
-  <li>[Through the DoorDash: A Look into Customer Data](/doordash)</li>
-  <li>Analyzing Music Artists and Track (link coming soon)</li>
-  <li>Analysis of Solar System Entities (link coming soon)</li>
-  <li>Examination of Netflix Releases (link coming soon)</li>
-  <li>Exploring Spotify Songs (link coming soon)</li>
-  <li>Superstore Sales and Profitability Executive Overview (link coming soon)</li>
-  <li>World Happiness Report, 2015 to 2019 (link coming soon)</li>
-</ul>
+##### [Through the DoorDash: A Look into Customer Data](/doordash)
+##### Analyzing Music Artists and Track (link coming soon)
+##### Analysis of Solar System Entities (link coming soon)
+##### Examination of Netflix Releases (link coming soon)
+##### Exploring Spotify Songs (link coming soon)
+##### Superstore Sales and Profitability Executive Overview (link coming soon)
+##### World Happiness Report, 2015 to 2019 (link coming soon)
 
 ---
 🎶 When I am not thinking about data analytics, you will find me listening to music or reading books
