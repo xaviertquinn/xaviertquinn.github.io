@@ -25,7 +25,7 @@ There is a wide range of customer insights from the data found online.
 
 ### Data background
 
-This <a href=https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv>dataset</a> is modified from the interview process for iFood, Brazil's DoorDash equivalent.
+This [dataset](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv) is modified from the interview process for iFood, Brazil's DoorDash equivalent.
 
 It contains:
 
