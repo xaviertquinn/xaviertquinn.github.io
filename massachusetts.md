@@ -2,7 +2,6 @@
 
 ## Massachusetts Education System Analysis
 
-# REWRITE
 ### Why Massachusetss Schools?
 
 My mom was a teacher at a grade school in Pennsylvania for most of my life. I grew up with an inside view of teaching.
@@ -15,7 +14,7 @@ Exploring this dataset and creating visualizations has provided me with informat
 
 ### What the Data Says
 
-The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student rating and graduation percentage. The data provides the following insights:
+The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. The analysis provided the following insights:
 
 <ul>
   <li>
@@ -36,40 +35,36 @@ REWRITE
 
 ### Data background 
 
-This <a href=URL>dataset</a> is 
+This [dataset](https://www.kaggle.com/datasets/ndalziel/massachusetts-public-schools-data) shows many ratings and details from hundreds of school in Massachusetts.
 
 It contains:
 
 <ul>
-  <li><strong>NUMBER rows</strong> of ROWS</li>
-  <li><strong>NUMBER columns</strong> of COLUMNS</li>
+  <li><strong>1,861 rows</strong> of schools, their geographic information, and educational ratings</li>
+  <li><strong>298 columns</strong> of information for each school recorded</li>
 </ul>
 
-Each row contains information for one school. For instance 2-3 COLUMNS.
+Each row contains information for one school. For instance school name, total enrollment, and average class size.
 
 Those columns include:
 
 <ul>
   <li>
-    LIST SOME OF THE COLUMNS USED
+    School Name
   </li>
   <li>
-    x
+    School Type
   </li>
   <li>
-    x
+    % Economically Disadvantaged
   </li>
   <li>
-    x
+    % MCAS_4thGrade_Math_P+A
   </li>
   <li>
-    x
+    TOTAL_Enrollment
   </li>
 </ul>
-
-
-
-REWRITE
 
 ### TITLE FOR INSIGHT 1
 
