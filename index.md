@@ -19,20 +19,19 @@ The marketing insights provided at the end of the analysis list the demographics
 
 ---
 <img src="images/Massachusetts_CaseStudy.png?raw=true"/>
-#### [Massachusetts Education Tableau Project](/link)
-Coming soon
+#### [Massachusetts Education Tableau Project (coming soon)](/link)
+Data dashboard of 1.8k dataset from Massachusetts Education System. I analyzed 4th grade math levels by district, correlation between percentage of college bound students and class size, and identified the bottom 10 schools and their percentage of students graduated.
 
 ---
-#### [Banking SQL Project](/link)
-Coming soon
+#### [Banking SQL Project (coming soon)](/link)
 
 ---
 
 ### LinkedIn Articles
 
 - [DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)
-- [Massachusetts School Project (link coming soon)](/link)
-- [Banking Project (link coming soon)](/link)
+- [Massachusetts School Project (coming soon)](/link)
+- [Banking Project (coming soon)](/link)
 
 ---
 
