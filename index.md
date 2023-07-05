@@ -20,7 +20,13 @@ The marketing insights provided at the end of the analysis list the demographics
 ---
 <img src="images/Massachusetts_CaseStudy.png?raw=true"/>
 #### [Massachusetts Education Tableau Project (coming soon)](/link)
-Data dashboard of 1.8k dataset from Massachusetts Education System. I analyzed 4th grade math levels by district, correlation between percentage of college bound students and class size, and identified the bottom 10 schools and their percentage of students graduated.
+Data dashboard of 1.8k dataset from Massachusetts Education System. I analyzed 4th grade math levels by district, correlation between percentage of college bound students and class size, and identified the bottom 10 schools and their percentage of students graduated. The following inqueries were answered:
+<ul>
+  <li>Show the state of the school system</li>
+  <li>How does class size affect college admission?</li>
+  <li>What are the top math schools in the state?</li>
+  <li>What schools are struggling the most?</li>
+</ul>
 
 ---
 #### [Banking SQL Project (coming soon)](/link)
