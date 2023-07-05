@@ -1,57 +1,81 @@
-<img src="images/DoorDash_CaseStudy.png?raw=true"/>NEW IMAGE
+<img src="images/Massachusetts_CaseStudy.png?raw=true"/>
 
-## Massachusetts School Analysis
+## Massachusetts Education System Analysis
 
-REWRITE
-### Why DoorDash?
+# REWRITE
+### Why Massachusetss Schools?
 
-I moved back to Pennsylvania in 2021. Since then, I have been a user of DoorDash for take out and delivery. 
+My mom was a teacher at a grade school in Pennsylvania for most of my life. I grew up with an inside view of teaching.
 
-As someone who struggles with finding time to go to the grocery store or make meals, DoorDash has helped me find food near me. 
+I knew that education was a field I was interested in and used to dream of working at a big school. Teaching was not for me and I try to take any chance I get to work with educational data.
 
-I became curious about who uses apps like DoorDash and why. Where are they from? How old are they? Do they have family or live alone? 
+I've had a goal to live in Boston and being able to analyze data from the Massachusetts school system is an exciting opportunity.
 
-The chance to look at the data has not only given me insights into the type of customer uses DoorDash but it has given me a new and interesting viewpoint on my own use of food delivery services.
+Exploring this dataset and creating visualizations has provided me with informative insights into the educational system and the state of schools in Massachusetts. It's made me wonder what the status is for other education systems across the United States.
 
-### What's interesting about DoorDash?
+### What the Data Says
 
-There is a wide range of customer insights from the data found online.
+The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student rating and graduation percentage. The data provides the following insights:
 
 <ul>
-  <li>The oldest customer is <strong>80 years old</strong>, while the youngest customer is <strong>24 yeas old</strong></li>
-  <li>The total spent was <strong>$1,240,896.00</strong></li>
-  <li>The average spent was <strong>$562.76</strong></li>
-  <li>The customer use average is <strong>6.88 years</strong></li>
-</ul> 
+  <li>
+    x<strong>LIST DATA INSIGHTS</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
+</ul>
 
-### Data background
+REWRITE
 
-This <a href=https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv>dataset</a> is modified from the interview process for iFood, Brazil's DoorDash equivalent.
+### Data background 
+
+This <a href=URL>dataset</a> is 
 
 It contains:
 
 <ul>
-  <li><strong>2,205 rows</strong> of customers and their information</li>
-  <li><strong>36 columns</strong> of customer attributes</li>
+  <li><strong>NUMBER rows</strong> of ROWS</li>
+  <li><strong>NUMBER columns</strong> of COLUMNS</li>
 </ul>
 
-Each row contains information for one customer. For instance income, age, and date joined.
+Each row contains information for one school. For instance 2-3 COLUMNS.
 
 Those columns include:
 
 <ul>
-  <li>Income: Customer's Yearly Income</li>
-  <li>MntTotal: Total Amount Spent by Customer</li>
-  <li>Kidhome: Number of Young Kids in Home</li>
-  <li>Teenhome: Number of Teenagers in Home</li>
-  <li>Recency: Number of Days Since Last Purchase</li>
-  <li>AcceptedCmp6: Did The Customer Accept Offer in 6th Campaign</li>
-  <li>Age: Age of Customer</li>
-  <li>Customer_Days: How Many Days Has Customer Been a Customer</li>
-  <li>DateJoined: The date the customer first became a customer</li>
+  <li>
+    LIST SOME OF THE COLUMNS USED
+  </li>
+  <li>
+    x
+  </li>
+  <li>
+    x
+  </li>
+  <li>
+    x
+  </li>
+  <li>
+    x
+  </li>
 </ul>
 
-### Examining Age Demographics
+
+
+REWRITE
+
+### TITLE FOR INSIGHT 1
+
+REWRITE
+---
+
 
 I find myself wondering what the age range is for most apps I use. For some, it's easier to hypothesize based on trends. For others, like DoorDash, it's harder to infer. In these circumstances, I find a query into the data creates clearer results.
 
@@ -61,7 +85,11 @@ It was fairly easy to find the oldest and youngest DoorDash customers. Using a M
 
 In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
 
-### Analysis of Influencing Factors on Total Spent
+### TITLE FOR INSIGHT 2
+
+REWRITE
+---
+
 
 The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
 
@@ -75,7 +103,11 @@ Using an IF function, I categorized the time since last order value into groups 
 
 The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
-### Examination of the Average Spent Amount
+### TITLE FOR INSIGHT 3
+
+REWRITE
+---
+
 
 Finding the average amount spent was pretty simple. The AVERAGE aggregate function calculated <strong>$562.76</strong> as the average. <strong>40%</strong> of customers spent over the average amount. The other <strong>60%</strong> spent under the average amount. 
 
@@ -85,7 +117,11 @@ The age group that spent the most was customers who are <strong>66 years old and
 
 <img src="images/DoorDash_AgeAverageSpent.png?raw=true"/>
 
-### Exploration of Average Customer Use
+### TITLE FOR INSIGHT 4
+
+REWRITE
+---
+
 
 Using an AVERAGE aggregate function, the average customer use of DoorDash was calculated to be <strong>6.88 years</strong>. This is supported by the above graph showing the average spent by age group. Each group is at least 6 years and the amount spent continuously increases since 36 years of age. 
 
@@ -97,19 +133,33 @@ The age group with the most customers over the average use time is <strong>36-50
 
 <img src="images/DoorDash_OverUnder_AverageUse_AgeGroup.png?raw=true"/>
 
-### Key Insights for DoorDash Marketing
+### Key Insights for School/Education System
 
-Marketing insights for DoorDash to increase their customer base and revenue.
+Educational insights for Massachusetts School System to increase their ratings.
 
 <ul>
-  <li>Campaigns should focus on <strong>customers age 36-50 and 51-60</strong> as they are the largest age demographics in the customer base.</li>
-  <li>Future campaigns should target customers who's last order was 2 months ago with the intent for them to <strong>order again before reaching 4 months</strong>.</li>
-  <li><strong>Milestone deals</strong> should be implemented to reward customer use.</li>
-  <li><strong>New customer advertisements</strong> should target 24-35 year olds to encourage them to start using the app.</li>
+  <li>
+    x<strong>LIST INSIGHTS FOR EDUCATIONAL IMPROVEMENT</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
+  <li>
+    x<strong>x</strong>
+  </li>
 </ul>
+
+REPEAT DATA INSIGHTS FROM BEGINNING OF ARTICLE
 
 To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
 
+REPEAT EDUCATIONAL INSIGHTS
+
 In addition, marketing insights are provided to increase DoorDash customers and company revenue. Certain <strong>age groups should be targeted</strong> through specific advertising campaigns.
+
+REPEAT BELOW PARAGRAPH WITH OTHER WORDS WHEN POSSIBLE
 
 Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations, please message me on LinkedIn, <a href="https://www.linkedin.com/in/xaviertquinn/">Xavier Quinn</a>, or email me at xaviertquinn@gmail.com. Any information would be very helpful!
