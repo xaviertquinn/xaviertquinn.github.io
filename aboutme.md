@@ -49,5 +49,7 @@ Interested in talking about my career path or just want to connect?
 
 Send me an email @ xaviertquinn@gmail.com! 📧
 
+Or message me on <a href="https://www.linkedin.com/in/xaviertquinn/">LinkedIn</a> 🔗
+
 ---
 
