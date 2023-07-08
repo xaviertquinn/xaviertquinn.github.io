@@ -14,7 +14,17 @@ Exploring this dataset and creating visualizations has provided me with informat
 
 ### What the Data Says
 
-The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. The analysis provided the following insights:
+The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. 
+
+Success for this project is decided by the following:
+<ul>
+  <li>A report on the state of the school system</li>
+  <li>How does class size affect college admission?</li>
+  <li>What are the top math schools in the state?</li>
+  <li>What schools are struggling the most?</li>
+</ul>
+
+The analysis concluded in the following insights:
 
 <ul>
   <li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
@@ -22,8 +32,6 @@ The Masschusetts school system is made up of hundreds of schools in multiple dis
   <li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
   <li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
 </ul>
-
-REWRITE
 
 ### Data background 
 
@@ -50,10 +58,13 @@ Those columns include:
 
 ### Bottom 10 Schools
 
-<li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
+<strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10
 
 REWRITE
 ---
+
+The bottom 10 schools include three from Springfield District. All three are public schools with a graduation rate ranging from 16.7% to 8.7%. Springfield District consists of 10 schools; four have a graduation rate under 50%, the other 6 have a rating over 50%. Springfield High School is 5th in the bottom 10 schools and 88% of its students are economically disadvantaged and only 11.6% go on to college.
+
 
 
 I find myself wondering what the age range is for most apps I use. For some, it's easier to hypothesize based on trends. For others, like DoorDash, it's harder to infer. In these circumstances, I find a query into the data creates clearer results.
@@ -64,9 +75,9 @@ It was fairly easy to find the oldest and youngest DoorDash customers. Using a M
 
 In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
 
-### Type of Schools
+### Best Math Schools
 
-<li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
+The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong>
 
 REWRITE
 ---
@@ -84,9 +95,11 @@ Using an IF function, I categorized the time since last order value into groups 
 
 The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
-### Passing 4th Grade Math
+### Onwardto College
 
-<li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
+switch with insight 4
+
+<strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong>
 
 REWRITE
 
@@ -107,9 +120,9 @@ The age group that spent the most was customers who are <strong>66 years old and
 
 <img src="images/DoorDash_AgeAverageSpent.png?raw=true"/>
 
-### Onward to College
+### Massachusetts School System
 
-<li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
+<strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college
 
 REWRITE
 
