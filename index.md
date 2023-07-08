@@ -8,12 +8,12 @@
 
 <img src="images/DoorDash_CaseStudy.png?raw=true"/>
 #### [DoorDash Excel Project](/doordash)
-In this project, I used Excel to analyze a 2.2k dataset for marketing insights that will increase the customer base and company revenue. I focused on:
+Analyzed a 2.2k dataset for marketing insights that will increase the customer base and company revenue. Focused on:
 <ul>
-  <li>The age range of customers</li>
-  <li>The total amount spent</li>
-  <li>The average amount spent</li>
-  <li>The average customer use length</li>
+  <li>the age range of customers</li>
+  <li>the total amount spent</li>
+  <li>the average amount spent</li>
+  <li>the average customer use length</li>
 </ul>
 The marketing insights provided at the end of the analysis list the demographics of customers that should be focused on for future campaigns.
 
