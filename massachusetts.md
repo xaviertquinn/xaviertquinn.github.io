@@ -6,9 +6,9 @@
 
 My mom was a teacher at a grade school in Pennsylvania for most of my life. I grew up with an inside view of teaching.
 
-I knew that education was a field I was interested in and used to dream of working at a big school. Teaching was not for me and I try to take any chance I get to work with educational data.
+I knew that education was a field I was interested in and used to dream of working at a large school. Teaching was not for me and I try to take any chance I get to work with educational data.
 
-I've had a goal to live in Boston and being able to analyze data from the Massachusetts school system is an exciting opportunity.
+I've wanted to live in Boston for some time now and being able to analyze data from the Massachusetts school system is an exciting opportunity.
 
 Exploring this dataset and creating visualizations has provided me with informative insights into the educational system and the state of schools in Massachusetts. It's made me wonder what the status is for other education systems across the United States.
 
@@ -58,22 +58,18 @@ Those columns include:
 
 ### Bottom 10 Schools
 
-<strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10
-
-REWRITE
----
-
 The bottom 10 schools include three from Springfield District. All three are public schools with a graduation rate ranging from 16.7% to 8.7%. Springfield District consists of 10 schools; four have a graduation rate under 50%, the other 6 have a rating over 50%. Springfield High School is 5th in the bottom 10 schools and 88% of its students are economically disadvantaged and only 11.6% go on to college.
 
+<img src="images/MA_Bottom10.png?raw=true"/>
 
+The three public schools fron Springfield District are:
+<ul>
+  <li>Gateway to College at Springfield Technical Community College: <strong>16.7% graduation rate</strong></li>
+  <li>Springfield High School: <strong>11.6% graduation rate</strong> and <strong>88% rate</strong> of economically disadvantaged students</li>
+  <li>Springfield Public Day High School: <strong>8.7% graduation rate</strong></li>
+</ul>
 
-I find myself wondering what the age range is for most apps I use. For some, it's easier to hypothesize based on trends. For others, like DoorDash, it's harder to infer. In these circumstances, I find a query into the data creates clearer results.
-
-It was fairly easy to find the oldest and youngest DoorDash customers. Using a MAX and MIN aggregate function on the age column, I was able to determine that the age of DoorDash customers range from <strong>24 years old to 80 years old</strong>. 
-
-<img src="images/DoorDash_CustomerAge.png?raw=true"/>
-
-In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
+With <strong>three schools in the bottom 10</strong>, another under 50% graduation rate, and the other six over 50%, Springfield District has several warning signs that it needs extra support and funding.
 
 ### Best Math Schools
 
@@ -124,7 +120,7 @@ The age group that spent the most was customers who are <strong>66 years old and
 
 <strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college
 
-REWRITE
+Springfield District shows sign it needs an increase in funding and support
 
     Groton Dunstable Regional, public school
     Groton-Dustable district
