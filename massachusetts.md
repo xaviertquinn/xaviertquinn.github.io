@@ -73,39 +73,37 @@ With <strong>three schools in the bottom 10</strong>, another under 50% graduati
 
 ### Best Math Schools
 
-The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong>
+The top 10 math schools are made up of <strong>10 districts</strong>, containing <strong>8 schools</strong>, all of which are <strong>public schools</strong>. Each school has a graduation rate of <strong>over 90%</strong> and the rate of students struggling economically is <strong>below 19%</strong>. 
 
-REWRITE
----
+<img src="images/MA_Top10Passing.png?raw=true"/>
+
+These signs all point to the schools doing well academically and financially. The policies and decisions that support these districts should be evaluated for key strategies that result in the high ratings.
 
 
-The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
-
-There are two outliers. One has a low income and a high spend value. The other has a high income and a low spend value. These might be accounted for by an error in data collection. Alternatively, the former outlier could be explained by a customer with a low income taking advantage of deals that lower order fees. The latter outlier could be explained by a customer with a high income who only orders from DoorDash once a week for certain meetings. Or a college student using their parents account.
-
-<img src="images/DoorDash_Scatter.png?raw=true"/>
-
-Using an IF function, I categorized the time since last order value into groups of 1 week, 1 month, 2 months, 3 months, and 4 months. Using these last order groups, I calculated the total spent in each category using the SUM aggregate function. 
-
-<img src="images/DoorDash_TotalSpent_LastOrder.png?raw=true"/>
 
 The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
-### Onwardto College
-
-switch with insight 4
+### Onward to College
 
 <strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong>
 
 REWRITE
 
     Hingham High, public school
+    class size: 14 students
     6.4% of students are economically disadvantaged
     1,199 students
+    87.9% of students go to college
     99.3% of students graduate
     Hingham district has a 91% passing rate for 4th Grade math
-    
+
+Students will have a better chance of going to college if the quality of the education received in grade and high school supports their endeavors to continue with higher education.
+
 ---
+
+
+
+
 
 
 Finding the average amount spent was pretty simple. The AVERAGE aggregate function calculated <strong>$562.76</strong> as the average. <strong>40%</strong> of customers spent over the average amount. The other <strong>60%</strong> spent under the average amount. 
@@ -153,15 +151,12 @@ The age group with the most customers over the average use time is <strong>36-50
 
 ### Key Insights for School/Education System
 
-Educational insights for Massachusetts School System to increase their ratings.
+Educational insights for Massachusetts School System to increase their numbers.
 
 <ul>
-  <li>
-    x<strong>LIST INSIGHTS FOR EDUCATIONAL IMPROVEMENT</strong>
-  </li>
-  <li>
-    x<strong>x</strong>
-  </li>
+  <li><strong>Springfield District</strong> should receive extra support, funding, and teaching incentives to improve the school, the teachers, and the quality of its education. In turn, this will offer students a better chance of going to college</li>
+  <li>Scholarships and fully funded education should be offered to students who struggle economically to give them a good education</li>
+  <li>The <strong>policies and decisions</strong> that support these districts should be evaluated and applied to other schools districts</li>
   <li>
     x<strong>x</strong>
   </li>
