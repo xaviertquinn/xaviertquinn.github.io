@@ -17,18 +17,10 @@ Exploring this dataset and creating visualizations has provided me with informat
 The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. The analysis provided the following insights:
 
 <ul>
-  <li>
-    x<strong>LIST DATA INSIGHTS</strong>
-  </li>
-  <li>
-    x<strong>x</strong>
-  </li>
-  <li>
-    x<strong>x</strong>
-  </li>
-  <li>
-    x<strong>x</strong>
-  </li>
+  <li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
+  <li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
+  <li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
+  <li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
 </ul>
 
 REWRITE
@@ -49,24 +41,16 @@ Each row contains information for one school. For instance school name, total en
 Those columns include:
 
 <ul>
-  <li>
-    School Name
-  </li>
-  <li>
-    School Type
-  </li>
-  <li>
-    % Economically Disadvantaged
-  </li>
-  <li>
-    % MCAS_4thGrade_Math_P+A
-  </li>
-  <li>
-    TOTAL_Enrollment
-  </li>
+  <li>School Name</li>
+  <li>School Type</li>
+  <li>% Economically Disadvantaged</li>
+  <li>% MCAS_4thGrade_Math_P+A</li>
+  <li>TOTAL_Enrollment</li>
 </ul>
 
-### TITLE FOR INSIGHT 1
+### Bottom 10 Schools
+
+<li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
 
 REWRITE
 ---
@@ -80,7 +64,9 @@ It was fairly easy to find the oldest and youngest DoorDash customers. Using a M
 
 In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
 
-### TITLE FOR INSIGHT 2
+### Type of Schools
+
+<li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
 
 REWRITE
 ---
@@ -98,9 +84,18 @@ Using an IF function, I categorized the time since last order value into groups 
 
 The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
-### TITLE FOR INSIGHT 3
+### Passing 4th Grade Math
+
+<li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
 
 REWRITE
+
+    Hingham High, public school
+    6.4% of students are economically disadvantaged
+    1,199 students
+    99.3% of students graduate
+    Hingham district has a 91% passing rate for 4th Grade math
+    
 ---
 
 
@@ -112,9 +107,28 @@ The age group that spent the most was customers who are <strong>66 years old and
 
 <img src="images/DoorDash_AgeAverageSpent.png?raw=true"/>
 
-### TITLE FOR INSIGHT 4
+### Onward to College
+
+<li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
 
 REWRITE
+
+    Groton Dunstable Regional, public school
+    Groton-Dustable district
+    846 students
+    class size of 17 students
+    3.1% economically disadvantaged students
+    89.7% go to college
+    
+
+    Springfield High School, public school
+    Springfield district
+    101 students
+    class size of 7 students
+    88% economically disadvantaged students
+    58.8% go to college
+
+    
 ---
 
 
@@ -148,6 +162,12 @@ Educational insights for Massachusetts School System to increase their ratings.
 </ul>
 
 REPEAT DATA INSIGHTS FROM BEGINNING OF ARTICLE
+<ul>
+  <li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
+  <li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
+  <li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
+  <li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
+</ul>
 
 To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
 
