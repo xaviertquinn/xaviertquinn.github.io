@@ -19,7 +19,7 @@ The marketing insights provided at the end of the analysis list the demographics
 
 ---
 <img src="images/Massachusetts_CaseStudy.png?raw=true"/>
-#### [Massachusetts Education Tableau Project (coming soon)](/link)
+#### [Massachusetts Education Tableau Project](/massachusetts.md)
 1.8k dataset from Massachusetts Education analyzed to answer the following inqueries about it's school system:
 <ul>
   <li>Show the state of the school system</li>
