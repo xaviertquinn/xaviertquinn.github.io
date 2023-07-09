@@ -57,7 +57,7 @@ Those columns include:
 
 ### Bottom 10 Schools
 
-The bottom 10 schools include three from Springfield District. All three are public schools with a graduation rate ranging from 16.7% to 8.7%. Springfield District consists of 10 schools; four have a graduation rate under 50%, the other 6 have a rating over 50%. Springfield High School is 5th in the bottom 10 schools and 88% of its students are economically disadvantaged and only 11.6% go on to college.
+The bottom 10 schools include <strong>three from Springfield District</strong>. All three are public schools with a <strong>graduation rate ranging from 16.7% to 8.7%</strong>. Springfield District consists of 10 schools; four have a graduation rate under 50%, the other 6 have a rating over 50%. Springfield High School is 5th in the bottom 10 schools and 88% of its students are economically disadvantaged and only 11.6% go on to college.
 
 <img src="images/MA_Bottom10.png?raw=true"/>
 
