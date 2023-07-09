@@ -85,34 +85,19 @@ The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A ca
 
 ### Onward to College
 
-<strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong>
+College determines success in this society. When a high doesn't set up its students for college, their chance of financial independence, quality of life, and thriving goes way down. In Massachusetts, there are several schools that show the correlation between class sizes and going to college. Two of these schools are:
+<ul>
+  <li>Fecteau-Leary Junior/Senior High School</li>
+  <li>Boston Preparatory Charter Public High School</li>
+</ul>
 
-REWRITE
+<img src="images/MA_CollegeVsClass.png?raw=true"/>
 
-    Hingham High, public school
-    class size: 14 students
-    6.4% of students are economically disadvantaged
-    1,199 students
-    87.9% of students go to college
-    99.3% of students graduate
-    Hingham district has a 91% passing rate for 4th Grade math
+These schools are one the opposite ends of the correlation range. Fecteau-Leary Junior/Senior High School is a public school in the Lynn District. Fecteau-Leary Junior/Senior High School has no passing rate for 4th grade math and 52.3% of its students struggle economically. It has a class size of 12 students and 32% of its students graduate with 10.5% going to college.
 
-Students will have a better chance of going to college if the quality of the education received in grade and high school supports their endeavors to continue with higher education.
+Boston Preparatory Charter Public High School is a charter school in the Boston Preparatory Charter Public District. Boston Preparatory Charter Public High School has no passing rate for 4th grade math and 39% of the students are economically disadvantaged. It has a class size of 34 students and 75% of its students graduate with 95.2% going to college.
 
----
-
-
-
-
-
-
-Finding the average amount spent was pretty simple. The AVERAGE aggregate function calculated <strong>$562.76</strong> as the average. <strong>40%</strong> of customers spent over the average amount. The other <strong>60%</strong> spent under the average amount. 
-
-<img src="images/DoorDash_OverUnder_AverageSpent.png?raw=true"/>
-
-The age group that spent the most was customers who are <strong>66 years old and above</strong>, followed by those <strong>51-65 years old</strong>. This might be explained by customers getting a promotion and increase in salary or reaching retirement age. Likewise, it could be inferred that those who are older order more because of health problems that prevent them from cooking regularly.
-
-<img src="images/DoorDash_AgeAverageSpent.png?raw=true"/>
+Students have a better chance of going to college if the quality of the education received in high school support their endeavors to continue with higher education. Quality education is supported by several factors. This analysis shows that larger class sizes lead to more students attending college. This may be because students can support each other or students flock to schools with better ratings or the students who have an advantage economically are more likely to go to a school that better supports their students and then on to college.
 
 ### Massachusetts School System
 
