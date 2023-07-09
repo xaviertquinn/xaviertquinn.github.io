@@ -35,9 +35,8 @@ The marketing insights provided at the end of the analysis list the demographics
 
 ### LinkedIn Articles
 
-- [DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)
-- [Massachusetts School Project (coming soon)](/link)
-- [Banking Project (coming soon)](/link)
+[DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)
+[Banking Project (coming soon)](/link)
 
 ---
 
