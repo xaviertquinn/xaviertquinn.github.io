@@ -126,6 +126,6 @@ The following educational insights for Massachusetts School System are advised t
 
 To conclude, Massachusetts bottom 10 schools contain <strong>3 public schools from Springfield district</strong>. Also <strong>public schools are the top math schools</strong> in the state. In Massachusetts, <strong>bigger class sizes</strong> results in <strong>more students going to college</strong>. In opposition to this correlation, <strong>more disadvantaged students mean less students and lower rates</strong> while <strong>less disadvantaged students mean more students and higher rates</strong>.
 
-In addition, educational insights are provided to increase students and ratings. Schools with <strong>more disadvantaged students</strong> should be given <strong>more support to improve</strong>.
+In addition, educational insights are provided to increase students and ratings. <strong>Schools with more disadvantaged students</strong> should be given <strong>more support to improve</strong>.
 
 Thanks for reading! If you have any questions, please email me. Also, I am currently looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations or opportunities, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Thanks!
