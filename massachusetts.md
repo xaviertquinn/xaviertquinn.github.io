@@ -2,7 +2,7 @@
 
 ## Massachusetts Education System Analysis
 
-### Why Massachusetss Schools?
+### Why Massachusetts Schools?
 
 My mom was a teacher at a grade school in Pennsylvania for most of my life. I grew up with an inside view of teaching.
 
@@ -14,7 +14,7 @@ Exploring this dataset and creating visualizations has provided me with informat
 
 ### What the Data Says
 
-The Masschusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. 
+The Massachusetts school system is made up of hundreds of schools in multiple districts. Each one with its own student ratings and data. 
 
 Success for this project is decided by the following:
 <ul>
@@ -24,13 +24,12 @@ Success for this project is decided by the following:
   <li>What schools are struggling the most?</li>
 </ul>
 
-The analysis concluded in the following insights:
-
+The analysis concluded with the following insights:
 <ul>
   <li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
-  <li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
-  <li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
-  <li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
+  <li>The top math schools are all <strong>public schools</strong></li>
+  <li><strong>Larger class sizes</strong> mean more students <strong>go to college</strong> after graduating</li>
+  <li>Schools with <strong>more disadvantaged students</strong> have <strong>less students and lower graduation and college rates</strong> while schools with <strong>more advantaged students</strong> have <strong>more students and higher graduation and college rates</strong></li>
 </ul>
 
 ### Data background 
@@ -62,7 +61,7 @@ The bottom 10 schools include three from Springfield District. All three are pub
 
 <img src="images/MA_Bottom10.png?raw=true"/>
 
-The three public schools fron Springfield District are:
+The three public schools in Springfield District are:
 <ul>
   <li>Gateway to College at Springfield Technical Community College: <strong>16.7% graduation rate</strong></li>
   <li>Springfield High School: <strong>11.6% graduation rate</strong> and <strong>88% rate</strong> of economically disadvantaged students</li>
@@ -73,19 +72,15 @@ With <strong>three schools in the bottom 10</strong>, another under 50% graduati
 
 ### Best Math Schools
 
-The top 10 math schools are made up of <strong>10 districts</strong>, containing <strong>8 schools</strong>, all of which are <strong>public schools</strong>. Each school has a graduation rate of <strong>over 90%</strong> and the rate of students struggling economically is <strong>below 19%</strong>. 
+The top 10 math schools are made up of <strong>10 districts</strong>, containing <strong>8 schools</strong>, all of which are <strong>public schools</strong>. Each school has a graduation rate of <strong>over 90%</strong> and the rate of students disadvantaged is <strong>below 19%</strong>. 
 
 <img src="images/MA_Top10Passing.png?raw=true"/>
 
-These signs all point to the schools doing well academically and financially. The policies and decisions that support these districts should be evaluated for key strategies that result in the high ratings.
-
-
-
-The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
+These signs all point to the students doing well academically and financially. The policies and decisions that support these districts should be evaluated for key strategies that result in the high ratings.
 
 ### Onward to College
 
-College determines success in this society. When a high doesn't set up its students for college, their chance of financial independence, quality of life, and thriving goes way down. In Massachusetts, there are several schools that show the correlation between class sizes and going to college. Two of these schools are:
+College determines success in this society. When a high school doesn't set up its students for college, their chance of financial independence, quality of life, and thriving goes  down. In Massachusetts, there are several schools that show the <strong>correlation between class sizes and going to college</strong>. Two of these schools are:
 <ul>
   <li>Fecteau-Leary Junior/Senior High School</li>
   <li>Boston Preparatory Charter Public High School</li>
@@ -93,77 +88,44 @@ College determines success in this society. When a high doesn't set up its stude
 
 <img src="images/MA_CollegeVsClass.png?raw=true"/>
 
-These schools are one the opposite ends of the correlation range. Fecteau-Leary Junior/Senior High School is a public school in the Lynn District. Fecteau-Leary Junior/Senior High School has no passing rate for 4th grade math and 52.3% of its students struggle economically. It has a class size of 12 students and 32% of its students graduate with 10.5% going to college.
+These schools are one the opposite ends of the correlation range. <strong>Fecteau-Leary Junior/Senior High School</strong> is a public school in the Lynn District. Fecteau-Leary Junior/Senior High School has no passing rate for 4th grade math and <strong>52.3% of its students struggle economically</strong>. It has a <strong>class size of 12 students</strong> and <strong>32% of its students graduate</strong> with <strong>10.5% going to college</strong>.
 
-Boston Preparatory Charter Public High School is a charter school in the Boston Preparatory Charter Public District. Boston Preparatory Charter Public High School has no passing rate for 4th grade math and 39% of the students are economically disadvantaged. It has a class size of 34 students and 75% of its students graduate with 95.2% going to college.
+<strong>Boston Preparatory Charter Public High School</strong> is a charter school in the Boston Preparatory Charter Public District. Boston Preparatory Charter Public High School has no passing rate for 4th grade math and <strong>39% of the students are economically disadvantaged</strong>. It has a <strong>class size of 34 students</strong> and <strong>75% of its students graduate</strong> with <strong>95.2% going to college</strong>.
 
-Students have a better chance of going to college if the quality of the education received in high school support their endeavors to continue with higher education. Quality education is supported by several factors. This analysis shows that larger class sizes lead to more students attending college. This may be because students can support each other or students flock to schools with better ratings or the students who have an advantage economically are more likely to go to a school that better supports their students and then on to college.
+Students have a better chance of going to college if the quality of the education received in high school support their endeavors to continue with higher education. Quality education is supported by several factors. This analysis shows that <strong>larger class sizes lead to more students attending college</strong>. This may be because students can support each other or students flock to schools with better ratings or the students who have an advantage economically are more likely to go to a school that better supports their students and then on to college.
 
 ### Massachusetts School System
 
-<strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college
+The state of Massachusetts School System has districts that are distinctly disadvantaged students and districts of advantaged students. Most of the funding and support goes to the schools of advantaged students. This results in higher graduation rates, higher numbers of students going to college, and more students. 
 
-Springfield District shows sign it needs an increase in funding and support
+The two schools that show the opposing extremes of the spectrum are:
+<ul>
+  <li>Groton Dunstable Regional</li>
+  <li>Springfield High School</li>
+</ul>
 
-    Groton Dunstable Regional, public school
-    Groton-Dustable district
-    846 students
-    class size of 17 students
-    3.1% economically disadvantaged students
-    89.7% go to college
-    
+<img src="images/MA_best_worst.png?raw=true"/>
 
-    Springfield High School, public school
-    Springfield district
-    101 students
-    class size of 7 students
-    88% economically disadvantaged students
-    58.8% go to college
+<strong>Groton Dunstable Regional</strong> is a public school with <strong>846 students</strong>, <strong>3.1% of which are disadvantaged</strong>. Its <strong>class size is 17 students</strong> with <strong>98.2% graduating</strong> and <strong>89.7% going to college</strong>.
 
-    
----
+<strong>Springfield High School</strong> is a public school with <strong>101 students</strong>, <strong>88% are disadvantaged</strong>. Its <strong>class size is 7 students</strong> with <strong>11.6% graduating</strong> and <strong>58.8% going to college</strong>.
 
+<img src="images/MA_best_worst_college.png?raw=true"/>
 
-Using an AVERAGE aggregate function, the average customer use of DoorDash was calculated to be <strong>6.88 years</strong>. This is supported by the above graph showing the average spent by age group. Each group is at least 6 years and the amount spent continuously increases since 36 years of age. 
-
-<strong>1,108 customers</strong> have used DoorDash longer than the average, while <strong>1,097 customers</strong> have used DoorDash less than the average amount of time. 
-
-<img src="images/DoorDash_OverUnder_AverageUse.png?raw=true"/>
-
-The age group with the most customers over the average use time is <strong>36-50 years old</strong>. This age group also have the most customers under the average use time. This means most of the customers in that age group started using DoorDash when they were <strong>24-35 years of age</strong>.
-
-<img src="images/DoorDash_OverUnder_AverageUse_AgeGroup.png?raw=true"/>
+Groton Dunstable Regional has impressive ratings and almost all of their graduates go to college. It is a good school for students who have intentions of higher education. Springfield High School has more disadvantaged students, less students, and a lower college rate. This school shows signs of needing more funding and support to better prepare more students for college as well as providing more resources to assist those looking to attend and go on to college.
 
 ### Key Insights for School/Education System
 
-Educational insights for Massachusetts School System to increase their numbers.
-
+The following educational insights for Massachusetts School System are advised to increase their ratings and student numbers:
 <ul>
-  <li><strong>Springfield District</strong> should receive extra support, funding, and teaching incentives to improve the school, the teachers, and the quality of its education. In turn, this will offer students a better chance of going to college</li>
-  <li>Scholarships and fully funded education should be offered to students who struggle economically to give them a good education</li>
-  <li>The <strong>policies and decisions</strong> that support these districts should be evaluated and applied to other schools districts</li>
-  <li>
-    x<strong>x</strong>
-  </li>
-  <li>
-    x<strong>x</strong>
-  </li>
+  <li><strong>The bottom 10 schools</strong> and the districts they are in should receive more support, funding, and teaching incentives to improve the school, its teachers, and the quality of education</li>
+  <li><strong>Scholarships and fully funded education</strong> should be offered to students who are disadvantaged to give them a good education and a better chance at college</li>
+  <li>The <strong>policies and decisions</strong> that support districts with higher ratings should be evaluated and applied to other school districts</li>
+  <li>Schools with <strong>larger class sizes</strong> have more students going to college after graduating</li>
 </ul>
 
-REPEAT DATA INSIGHTS FROM BEGINNING OF ARTICLE
-<ul>
-  <li><strong>Springfield District</strong> has <strong>3 public schools</strong> in the bottom 10</li>
-  <li>The top 10 schools are <strong>50% public schools</strong> and <strong>50% charter schools</strong></li>
-  <li><strong>Hingham High</strong>, part of <strong>Hingham District</strong> has a <strong>91% math passing rate</strong></li>
-  <li><strong>89.7%</strong> of<strong>Groton Dunstable Regional</strong>'s student <strong>go to college</strong> while only <strong>58.8%</strong> of <strong>Springfield High School</strong> goes to college</li>
-</ul>
+To conclude, Massachusetts bottom 10 schools contain <strong>3 public schools from Springfield district</strong>. Also <strong>public schools are the top math schools</strong> in the state. In Massachusetts, <strong>bigger class sizes</strong> results in <strong>more students going to college</strong>. In opposition to this correlation, <strong>more disadvantaged students mean less students and lower rates</strong> while <strong>less disadvantaged students mean more students and higher rates</strong>.
 
-To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
+In addition, educational insights are provided to increase students and ratings. Schools with <strong>more disadvantaged students</strong> should be given <strong>more support to improve</strong>.
 
-REPEAT EDUCATIONAL INSIGHTS
-
-In addition, marketing insights are provided to increase DoorDash customers and company revenue. Certain <strong>age groups should be targeted</strong> through specific advertising campaigns.
-
-REPEAT BELOW PARAGRAPH WITH OTHER WORDS WHEN POSSIBLE
-
-Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations, please message me on LinkedIn, <a href="https://www.linkedin.com/in/xaviertquinn/">Xavier Quinn</a>, or email me at xaviertquinn@gmail.com. Any information would be very helpful!
+Thanks for reading! If you have any questions, please email me. Also, I am currently looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations or opportunities, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Thanks!
