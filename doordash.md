@@ -115,4 +115,4 @@ Thanks for reading! If you have any questions, please email me at the email belo
 
 ---
 
-<p style="text-align: center;">[Next project](/massachusetts)</p>
+<p align="center">[Next project](/massachusetts)</p>
