@@ -40,7 +40,7 @@ The marketing insights provided at the end of the analysis list the demographics
 
 ---
 
-### [My resume](files/resume.pdf)
+### [My resume](files/XavierQuinn_Resume.pdf)
 
 ---
 
