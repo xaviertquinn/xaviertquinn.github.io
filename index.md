@@ -8,7 +8,7 @@
 
 <img src="images/Massachusetts_CaseStudy.png?raw=true"/>
 #### [Massachusetts Education Tableau Project](/massachusetts)
-1.8k dataset from Massachusetts Education analyzed to answer the following inqueries about it's school system:
+1.8k dataset from Massachusetts Education analyzed to answer the following inquiries about it's school system:
 <ul>
   <li>Show the state of the school system</li>
   <li>How does class size affect college admission?</li>
