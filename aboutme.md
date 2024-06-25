@@ -28,7 +28,7 @@ In these courses, I've used the following skills to complete projects:
 ---
 I've programmed and visualized the following projects:
 ##### 🍕 [Through the DoorDash: A Look into Customer Data](/doordash)
-##### 🎵 Analyzing Music Artists and Track (link coming soon)
+##### 🎵 Analyzing Music Artists and Tracks (link coming soon)
 ##### 🪐 Analysis of Solar System Entities (link coming soon)
 ##### 🎥 Examination of Netflix Releases (link coming soon)
 ##### 🎼 Exploring Spotify Songs (link coming soon)
