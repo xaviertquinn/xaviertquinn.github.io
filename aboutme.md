@@ -12,7 +12,7 @@ Data analytics was recommended to me by a friend and I dove headfirst into the w
 
 After leaving school, I went in search of a place that was right for me
 
-I've found it in data and the work I can do with it
+Data and the work I can do with it is a big part of that right place for me
 
 ---
 📊 I've studied data analytics courses with Break Into Tech and Data Analytics Accelerator
@@ -38,9 +38,9 @@ I've programmed and visualized the following projects:
 ---
 🎶 When I am not thinking about data analytics, you will find me listening to music or reading books
 
-🎧 I'm a huge fan of Noah Kahan and Sleeping At Last
+🎧 I'm a huge fan of Joshua Radin and Sleeping At Last
 
-📖 I just got into cosy fantasy books and love the genre
+📖 I really love cosy fantasy books and can't wait to read more in the genre
 
 🐾 And I love spending time with my cat, Ever
 
