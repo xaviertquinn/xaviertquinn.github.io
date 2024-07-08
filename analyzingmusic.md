@@ -14,7 +14,15 @@ So I jumped at the chance to explore data on musical artists.
 
 ### What's interesting about artists and their music?
 
-x
+genres and playlists
+rock n roll 90s music
+
+Brazil had the highest number of sales at 21??
+
+employees
+peacock - brazil at 21
+
+
 
 There is a wide range of customer insights from the data found online.
 
@@ -27,13 +35,7 @@ There is a wide range of customer insights from the data found online.
 
 ### Data background
 
-genres and playlists
-rock n roll 90s music
-
-Brazil had the highest number of sales at 21??
-
-employees
-peacock - brazil at 21
+x
 
 
 
