@@ -4,54 +4,45 @@
 
 ### Why space?
 
+When I was growing up, my family lived in rural areas where I could see the stars and planets at night. I loved it so much, I got a telescope for my birthday.
+
+I still love looking at the stars. 
+
+Exploring the entities in space was a fun project to work on. It reignited my love of learning about space.
+
+### What's interesting about these entities?
+
 x
 
 
-When I was a kid, music became a huge part of my life by offering an escape. 
 
-I spent a portion of my childhood learning violin and started to slowly teach myself how to play guitar in 2022.
-
-I've studied how music is made in my personal time. Learning how my favorite songs were created made them even better.
-
-So I jumped at the chance to explore data on musical artists. 
-
-### What's interesting about artists and their music?
-
-genres and playlists
-rock n roll 90s music
-
-Brazil had the highest number of sales at 21??
-
-employees
-peacock - brazil at 21
-
-
-
-There is a wide range of customer insights from the data found online.
+There is a wide range of insights found from the data.
 
 <ul>
-  <li>The oldest customer is <strong>80 years old</strong>, while the youngest customer is <strong>24 yeas old</strong></li>
-  <li>The total spent was <strong>$1,240,896.00</strong></li>
+  <li>The entity with the highest mass is<strong>Ganymede at 148.2</strong>, while entity with the lowest mass is <strong>Tethys at 0.6173</strong></li>
+  <li>There are <strong>16 satellites</strong>, <strong>5 of which belong to Saturn</strong></li>
+  
   <li>The average spent was <strong>$562.76</strong></li>
+  
   <li>The customer use average is <strong>6.88 years</strong></li>
 </ul> 
 
 ### Data background
 
-This dataset was downloaded as part of a final SQL project for Break Into Tech Data Analytics course. 
+This [dataset](http://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size) was used as part of a Data Analytics course. 
 
 It contains:
 
 <ul>
-  <li><strong>35 rows</strong> of SOMETHING (customers and their information)</li>
-  <li><strong>12 columns</strong> of SOMETHING (customer attributes)</li>
+  <li><strong>35 rows</strong> of solar system entities (customers and their information)</li>
+  <li><strong>12 columns</strong> of attributes for entities in the solar system</li>
 </ul>
 
-The rows include informaiton for SOMETHING (Each row contains information for one customer. For instance income, age, and date joined.)
+One row shows information for an entity, such as volume, mass, and density.
 
 The columns include:
 <ul>
-  <li><strong>body</strong>WHAT IS IT</li>
+  <li><strong>body</strong> - </li>
   <li><strong>volume</strong>WHAT IS IT</li>
   <li><strong>mass</strong>WHAT IS IT</li>
   <li><strong>density</strong>WHAT IS IT</li>
