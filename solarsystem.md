@@ -32,7 +32,6 @@ There is a wide range of insights found from the data.
 This [dataset](http://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size) was used as part of a Data Analytics course. 
 
 It contains:
-
 <ul>
   <li><strong>35 rows</strong> of solar system entities (customers and their information)</li>
   <li><strong>12 columns</strong> of attributes for entities in the solar system</li>
@@ -49,45 +48,85 @@ The columns include:
   <li><strong>surface_gravity</strong>WHAT IS IT</li>
 </ul>
 
-### Examining x
-Age Demographics
+### Examining mass
 
 x
+
+max
+<img src="images/carbon 1 ss.png?raw=true"/>
+
+<img src="images/1 ss.png?raw=true"/>
+
+min
+<img src="images/carbon 2 ss.png?raw=true"/>
+
+<img src="images/2 ss.png?raw=true"/>
+
+avg
+<img src="images/carbon 3 ss.png?raw=true"/>
+
+<img src="images/3 ss.png?raw=true"/>
+
+
+
 
 I find myself wondering what the age range is for most apps I use. For some, it's easier to hypothesize based on trends. For others, like DoorDash, it's harder to infer. In these circumstances, I find a query into the data creates clearer results.
 
 It was fairly easy to find the oldest and youngest DoorDash customers. Using a MAX and MIN aggregate function on the age column, I was able to determine that the age of DoorDash customers range from <strong>24 years old to 80 years old</strong>. 
 
-<img src="images/DoorDash_CustomerAge.png?raw=true"/>
 
 In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
 
-### Analysis of Influencing Factors on Total Spent
+### Planet satellites
+
+x
+
+# of satellites
+<img src="images/carbon 5 ss.png?raw=true"/>
+
+<img src="images/5 ss.png?raw=true"/>
+
+satellites to planets
+<img src="images/carbon 7 ss.png?raw=true"/>
+
+<img src="images/7 ss.png?raw=true"/>
+
+
 
 The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
 
 There are two outliers. One has a low income and a high spend value. The other has a high income and a low spend value. These might be accounted for by an error in data collection. Alternatively, the former outlier could be explained by a customer with a low income taking advantage of deals that lower order fees. The latter outlier could be explained by a customer with a high income who only orders from DoorDash once a week for certain meetings. Or a college student using their parents account.
 
-<img src="images/DoorDash_Scatter.png?raw=true"/>
 
 Using an IF function, I categorized the time since last order value into groups of 1 week, 1 month, 2 months, 3 months, and 4 months. Using these last order groups, I calculated the total spent in each category using the SUM aggregate function. 
 
-<img src="images/DoorDash_TotalSpent_LastOrder.png?raw=true"/>
 
 The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
-### Examination of the x
+### Examination of the satellites
 Average Spent Amount
 
 x
 
+# of satellites by size category
+<img src="images/carbon 12 ss.png?raw=true"/>
+
+<img src="images/12 ss.png?raw=true"/>
+
+x
+
+satellites and size category
+<img src="images/carbon13 ss.png?raw=true"/>
+
+<img src="images/13 ss.png?raw=true"/>
+
+
+
 Finding the average amount spent was pretty simple. The AVERAGE aggregate function calculated <strong>$562.76</strong> as the average. <strong>40%</strong> of customers spent over the average amount. The other <strong>60%</strong> spent under the average amount. 
 
-<img src="images/DoorDash_OverUnder_AverageSpent.png?raw=true"/>
 
 The age group that spent the most was customers who are <strong>66 years old and above</strong>, followed by those <strong>51-65 years old</strong>. This might be explained by customers getting a promotion and increase in salary or reaching retirement age. Likewise, it could be inferred that those who are older order more because of health problems that prevent them from cooking regularly.
 
-<img src="images/DoorDash_AgeAverageSpent.png?raw=true"/>
 
 ### Exploration of x
 Average Customer Use
@@ -98,13 +137,11 @@ Using an AVERAGE aggregate function, the average customer use of DoorDash was ca
 
 <strong>1,108 customers</strong> have used DoorDash longer than the average, while <strong>1,097 customers</strong> have used DoorDash less than the average amount of time. 
 
-<img src="images/DoorDash_OverUnder_AverageUse.png?raw=true"/>
 
 The age group with the most customers over the average use time is <strong>36-50 years old</strong>. This age group also have the most customers under the average use time. This means most of the customers in that age group started using DoorDash when they were <strong>24-35 years of age</strong>.
 
-<img src="images/DoorDash_OverUnder_AverageUse_AgeGroup.png?raw=true"/>
 
-### Key Insights for x
+### Key insights for x
 DoorDash Marketing
 
 x
