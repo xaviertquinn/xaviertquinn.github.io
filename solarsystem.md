@@ -116,7 +116,7 @@ x
 x
 
 satellites and size category
-<img src="images/carbon13 ss.png?raw=true"/>
+<img src="images/carbon 13 ss.png?raw=true"/>
 
 <img src="images/13 ss.png?raw=true"/>
 
