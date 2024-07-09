@@ -81,7 +81,7 @@ In addition, I created an IF function that categorizes each customers' age into 
 
 x
 
-# of satellites
+number of satellites
 <img src="images/carbon 5 ss.png?raw=true"/>
 
 <img src="images/5 ss.png?raw=true"/>
@@ -108,7 +108,7 @@ Average Spent Amount
 
 x
 
-# of satellites by size category
+number of satellites by size category
 <img src="images/carbon 12 ss.png?raw=true"/>
 
 <img src="images/12 ss.png?raw=true"/>
