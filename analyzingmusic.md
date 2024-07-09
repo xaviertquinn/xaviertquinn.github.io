@@ -35,33 +35,23 @@ There is a wide range of customer insights from the data found online.
 
 ### Data background
 
-x
-
-
-
-This [dataset](https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv) is modified from the interview process for iFood, Brazil's DoorDash equivalent.
+This dataset was downloaded as part of a final SQL project for Break Into Tech Data Analytics course. 
 
 It contains:
 
 <ul>
-  <li><strong>2,205 rows</strong> of customers and their information</li>
-  <li><strong>36 columns</strong> of customer attributes</li>
+  <li><strong>NUMBER rows</strong> of SOMETHING (customers and their information)</li>
+  <li><strong>NUMBER columns</strong> of SOMETHING (customer attributes)</li>
 </ul>
 
-Each row contains information for one customer. For instance income, age, and date joined.
+The rows include informaiton for SOMETHING (Each row contains information for one customer. For instance income, age, and date joined.)
 
-Those columns include:
-
+The columns include:
 <ul>
-  <li>Income: Customer's Yearly Income</li>
-  <li>MntTotal: Total Amount Spent by Customer</li>
-  <li>Kidhome: Number of Young Kids in Home</li>
-  <li>Teenhome: Number of Teenagers in Home</li>
-  <li>Recency: Number of Days Since Last Purchase</li>
-  <li>AcceptedCmp6: Did The Customer Accept Offer in 6th Campaign</li>
-  <li>Age: Age of Customer</li>
-  <li>Customer_Days: How Many Days Has Customer Been a Customer</li>
-  <li>DateJoined: The date the customer first became a customer</li>
+  <li>COLUMNS</li>
+  <li>COLUMNS</li>
+  <li>COLUMNS</li>
+  <li>COLUMNS</li>
 </ul>
 
 ### Examining x
