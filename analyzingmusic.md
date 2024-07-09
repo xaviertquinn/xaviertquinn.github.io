@@ -40,18 +40,19 @@ This dataset was downloaded as part of a final SQL project for Break Into Tech D
 It contains:
 
 <ul>
-  <li><strong>NUMBER rows</strong> of SOMETHING (customers and their information)</li>
-  <li><strong>NUMBER columns</strong> of SOMETHING (customer attributes)</li>
+  <li><strong>35 rows</strong> of SOMETHING (customers and their information)</li>
+  <li><strong>12 columns</strong> of SOMETHING (customer attributes)</li>
 </ul>
 
 The rows include informaiton for SOMETHING (Each row contains information for one customer. For instance income, age, and date joined.)
 
 The columns include:
 <ul>
-  <li>COLUMNS</li>
-  <li>COLUMNS</li>
-  <li>COLUMNS</li>
-  <li>COLUMNS</li>
+  <li><strong>body</strong>WHAT IS IT</li>
+  <li><strong>volume</strong>WHAT IS IT</li>
+  <li><strong>mass</strong>WHAT IS IT</li>
+  <li><strong>density</strong>WHAT IS IT</li>
+  <li><strong>surface_gravity</strong>WHAT IS IT</li>
 </ul>
 
 ### Examining x
