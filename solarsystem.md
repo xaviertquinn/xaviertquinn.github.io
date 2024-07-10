@@ -12,14 +12,12 @@ Exploring the entities in space was a fun project to work on. It reignited my lo
 
 ### What's interesting about these satellites?
 
-There is a several insights found from the data.
+There is a several initial findings that can be determined just by looking at the data, which are listed below.
 
 <ul>
   <li>There are <strong>16 satellites</strong> recorded, <strong>5 of which belong to Saturn</strong></li>
   <li>The satellite with the highest mass is<strong>Ganymede at 148.2</strong>, while the satellite with the lowest mass is <strong>Tethys at 0.6173</strong></li>
-  
-    
-  <li>The customer use average is <strong>6.88 years</strong></li>
+  <li>The classification <strong>CLASSIFICATION</strong> has the most satellites, with <strong>NUMBER</strong></li>
 </ul> 
 
 ### Data background
@@ -36,77 +34,56 @@ One row shows information for an entity, such as volume, mass, and density.
 
 The columns include:
 <ul>
-  <li><strong>body</strong> - the name of the satellite</li>
-  <li><strong>volume</strong> - the volume of the satellite measured in cubic kilometers</li>
-  <li><strong>mass</strong> - the mass of the satellite measured in kilograms</li>
-  <li><strong>density</strong> - the density of the satellite measured in gram per cubic centimetre</li>
-  <li><strong>surface_gravity</strong> - the standard gravity measurement of the satellite</li>
+  <li>body: the name of the satellite</li>
+  <li>volume: the volume of the satellite measured in cubic kilometers</li>
+  <li>mass: the mass of the satellite measured in kilograms</li>
+  <li>density: the density of the satellite measured in gram per cubic centimetre</li>
+  <li>surface_gravity: the standard gravity measurement of the satellite</li>
 </ul>
 
 ### Planet satellites
 
-x
-
-number of satellites
+The first thing I did was determine how many satellites there are by using a simple COUNT inquiry. 
 
 <img src="images/carbon 5 ss.png?raw=true" width="400"/>
 
+The results show there are 16 satellites.
+
 <img src="images/5 ss.png?raw=true" width="350"/>
 
-
-satellites to planets
+Looking further into it, I wrote a SQL inquiry that counted the number of satellites for each planet by listing the type_of_object before the COUNT of satellites.
 
 <img src="images/carbon 7 ss.png?raw=true" width="400"/>
 
+Saturn has 5 satellites, putting it at the top of the list with the highest amount. That's 31.25% of the total number of satellites. Uranus follows with 4, or 25%, and then Jupiter also at 4 satellites and 25%. Pluto, Neptune, and Earth follows with 1 satellite each, or 6.25% of the total 16 satellites.
+
 <img src="images/7 ss.png?raw=true" width="350"/>
-
-
-
-The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
-
-There are two outliers. One has a low income and a high spend value. The other has a high income and a low spend value. These might be accounted for by an error in data collection. Alternatively, the former outlier could be explained by a customer with a low income taking advantage of deals that lower order fees. The latter outlier could be explained by a customer with a high income who only orders from DoorDash once a week for certain meetings. Or a college student using their parents account.
-
-
-Using an IF function, I categorized the time since last order value into groups of 1 week, 1 month, 2 months, 3 months, and 4 months. Using these last order groups, I calculated the total spent in each category using the SUM aggregate function. 
-
-
-The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
 ### Examining mass
 
-x
-
-max
+Looking specifically at the satellites, I wrote a SQL inquiry to give me the satellite with the highest mass.
 
 <img src="images/carbon 1 ss.png?raw=true" width="400"/>
 
+The results show that Ganymede, a satellite of Jupiter, has a mass of 148.2 kilograms.
+
 <img src="images/1 ss.png?raw=true" width="350"/>
 
-
-min
+Following that, I wanted to look at the satellite with the lowest mass.
 
 <img src="images/carbon 2 ss.png?raw=true" width="400"/>
 
+Tethys, Saturn's satellite, has a mass of 0.6173 kilograms.
+
 <img src="images/2 ss.png?raw=true" width="350"/>
 
-
-avg
+Next, I wrote an inquiry to show me the average mass of satellites.
 
 <img src="images/carbon 3 ss.png?raw=true" width="400"/>
 
+The average mass is 39.9508 kilograms, which means that 10 satellites are lower than the average, leaving only 6 that are higher.
+
 <img src="images/3 ss.png?raw=true" width="350"/>
-
-
-
-
-I find myself wondering what the age range is for most apps I use. For some, it's easier to hypothesize based on trends. For others, like DoorDash, it's harder to infer. In these circumstances, I find a query into the data creates clearer results.
-
-It was fairly easy to find the oldest and youngest DoorDash customers. Using a MAX and MIN aggregate function on the age column, I was able to determine that the age of DoorDash customers range from <strong>24 years old to 80 years old</strong>. 
-
-
-In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
-
-
 
 ### Examination of the satellites
 
@@ -137,7 +114,7 @@ The next inquiry looked at the number of planets and satellites that fell into e
 
 <img src="images/carbon 12 ss.png?raw=true" width="400"/>
 
-<strong>Mid-Earth</strong> had the most satellite classifications with <strong>10 satellites</strong>, followed closely by <strong>Hyper-Jupiter at 7 satellites</strong> and <strong>Sub-Jupiter at 6</strong>.
+Mid-Earth had the most satellite classifications with 10 satellites, followed closely by Hyper-Jupiter at 7 satellites and Sub-Jupiter at 6.
 
 <img src="images/12 ss.png?raw=true" width="350"/>
 
@@ -147,10 +124,22 @@ x
 
 
 <ul>
-  <li>Campaigns should focus on <strong>customers age 36-50 and 51-60</strong> as they are the largest age demographics in the customer base.</li>
-  <li>Future campaigns should target customers who's last order was 2 months ago with the intent for them to <strong>order again before reaching 4 months</strong>.</li>
-  <li><strong>Milestone deals</strong> should be implemented to reward customer use.</li>
-  <li><strong>New customer advertisements</strong> should target 24-35 year olds to encourage them to start using the app.</li>
+  <li>
+    
+    Campaigns should focus on <strong>customers age 36-50 and 51-60</strong> as they are the largest age demographics in the customer base.
+    </li>
+  <li>
+    
+    Future campaigns should target customers who's last order was 2 months ago with the intent for them to <strong>order again before reaching 4 months</strong>.
+    </li>
+  <li>
+    
+    <strong>Milestone deals</strong> should be implemented to reward customer use.
+    </li>
+  <li>
+    
+    <strong>New customer advertisements</strong> should target 24-35 year olds to encourage them to start using the app.
+    </li>
 </ul>
 
 To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
