@@ -29,10 +29,10 @@ In these courses, I've used the following skills to complete projects:
 I've programmed and visualized the following projects:
 ##### 🍕 [Through the DoorDash: A Look into Customer Data](/doordash)
 ##### 🪐 [Analysis of Solar System Entities](/solarsystem)
-##### 🎼 Exploring Spotify Songs (link coming soon)
-##### 📊 Sales Insights: Customers & Orders (link coming soon)
-##### 🏪 Superstore Sales and Profitability Executive Overview (link coming soon)
-##### 😄 World Happiness Report, 2015 to 2019 (link coming soon)
+##### 🎼 Exploring Spotify Songs (coming soon)
+##### 📊 Sales Insights: Customers & Orders (coming soon)
+##### 🏪 Superstore Sales and Profitability Executive Overview (coming soon)
+##### 😄 World Happiness Report, 2015 to 2019 (coming soon)
 
 ---
 🎶 When I am not working on data projects or learning something new, I'm listening to music or exploring my family history
