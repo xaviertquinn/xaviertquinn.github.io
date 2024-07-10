@@ -23,7 +23,7 @@
 
 ---
 
-### [My resume](files/XavierQuinn_Resume.pdf)
+### [My resume](XavierQuinn_Resume.pdf)
 
 ---
 
