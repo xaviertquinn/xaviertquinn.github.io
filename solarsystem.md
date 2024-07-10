@@ -16,8 +16,8 @@ There is a several initial findings that can be determined just by looking at th
 
 <ul>
   <li>There are <strong>16 satellites</strong> recorded, <strong>5 of which belong to Saturn</strong></li>
-  <li>The satellite with the highest mass is<strong>Ganymede at 148.2</strong>, while the satellite with the lowest mass is <strong>Tethys at 0.6173</strong></li>
-  <li>The classification <strong>CLASSIFICATION</strong> has the most satellites, with <strong>NUMBER</strong></li>
+  <li>The satellite with the highest mass is<strong>Ganymede at 148.2 kilograms</strong>, while the satellite with the lowest mass is <strong>Tethys at 0.6173 kilograms</strong></li>
+  <li>The classification <strong>Mid-Earth</strong> has <strong>10 planets and satellites</strong>, making it the classification with the most entities.</li>
 </ul> 
 
 ### Data background
@@ -73,7 +73,7 @@ Following that, I wanted to look at the satellite with the lowest mass.
 
 <img src="images/carbon 2 ss.png?raw=true" width="400"/>
 
-Tethys, Saturn's satellite, has a mass of 0.6173 kilograms.
+Tethys, one of Saturn's satellites, has a mass of 0.6173 kilograms.
 
 <img src="images/2 ss.png?raw=true" width="350"/>
 
@@ -81,7 +81,7 @@ Next, I wrote an inquiry to show me the average mass of satellites.
 
 <img src="images/carbon 3 ss.png?raw=true" width="400"/>
 
-The average mass is 39.9508 kilograms, which means that 10 satellites are lower than the average, leaving only 6 that are higher.
+The average mass is 39.9509 kilograms, which means that 10 satellites are lower than the average, leaving only 6 that are higher.
 
 <img src="images/3 ss.png?raw=true" width="350"/>
 
@@ -106,7 +106,7 @@ The first inquiry classified each satellite into its prospective size category.
 
 <img src="images/carbon 13 ss.png?raw=true" width="400"/>
 
-Itaque dolore qui perferendis nesciunt. Non aut unde odio dolores. Facilis delectus sunt sequi aut quisquam explicabo nisi tempore.
+Mid-Earth is at the top of the list, with 10 satellites. Hyper-Jupiter follows at 7 satellites and then Sub-Jupiter at 6. Super-Earth has 4 satellites, midplanet has 3, and Sub-Earth has 2. Mid-Jupiter and Super-Jupiter both have 1 satellite each, putting them at the bottom of the list.
 
 <img src="images/13 ss.png?raw=true" width="350"/>
 
@@ -114,7 +114,7 @@ The next inquiry looked at the number of planets and satellites that fell into e
 
 <img src="images/carbon 12 ss.png?raw=true" width="400"/>
 
-Mid-Earth had the most satellite classifications with 10 satellites, followed closely by Hyper-Jupiter at 7 satellites and Sub-Jupiter at 6.
+Mid-Earth had the most  classifications with 10 planets and satellites, followed closely by Hyper-Jupiter at 7 and Sub-Jupiter at 6.
 
 <img src="images/12 ss.png?raw=true" width="350"/>
 
@@ -124,31 +124,17 @@ x
 
 
 <ul>
-  <li>
-    
-    Campaigns should focus on <strong>customers age 36-50 and 51-60</strong> as they are the largest age demographics in the customer base.
-    </li>
-  <li>
-    
-    Future campaigns should target customers who's last order was 2 months ago with the intent for them to <strong>order again before reaching 4 months</strong>.
-    </li>
-  <li>
-    
-    <strong>Milestone deals</strong> should be implemented to reward customer use.
-    </li>
-  <li>
-    
-    <strong>New customer advertisements</strong> should target 24-35 year olds to encourage them to start using the app.
-    </li>
+  <li><strong>Saturn has the most satellites, possessing <strong>5 satellites out of the 16 recorded.
+  <li><strong>Ganymede</strong>, a satellite of Jupiter, has the <strong>highest mass of 148.2 kilograms</strong>. The satellite with the lowest mass is <strong>Tethys</strong>, one of Saturn's satellites, with <strong>0.6173 kilograms</strong>.</li>
+  <li>The <strong>average mass</strong> is <strong>39.9509 kilograms</strong>. This means that <strong>10 satellites</strong> are lower than the average and <strong>6</strong> are higher.</li>
+  <li>Planetary mass classification of <strong>Mid-Earth</strong> has <strong>10 planets and satellites</strong>, followed by Hyper-Jupiter with 7 and Sub-Jupiter with 6.</li>
 </ul>
 
-To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
+To reiterate, Saturn has the most satellites, including the satellite with the lowest mass. The satellite with the highest mass belongs to Jupiter. That satellite is 1 of 6 that is higher than the average satellite mass, leaving 10 that fall below it. 
 
-In addition, marketing insights are provided to increase DoorDash customers and company revenue. Certain <strong>age groups should be targeted</strong> through specific advertising campaigns.
+In addition, using the planetary mass classification system, Mid-Earth has 10 planets and satellites that fall within its range of 0.5 and 2.
 
-
-
-Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Any information would be very helpful!
+Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time remote job as a data analyst</strong>, so if you have any recommendations, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Any information would be very helpful!
 
 ---
 
