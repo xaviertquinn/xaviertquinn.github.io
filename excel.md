@@ -1,6 +1,5 @@
 <img src="images/DoorDash_CaseStudy.png?raw=true"/>
 #### [DoorDash Excel Project](/doordash)
-<br>
 Analyzed a 2.2k dataset for marketing insights that will increase the customer base and company revenue. Focused on:
 <ul>
   <li>the age range of customers</li>
