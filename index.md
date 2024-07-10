@@ -4,7 +4,7 @@
 
 ---
 
-### [My Projects](/projects)
+### My Projects
 
 ##### [SQL projects](/sql)
 ##### [Tableau projects](/tableau)
