@@ -15,9 +15,9 @@ Exploring the entities in space was a fun project to work on. It reignited my lo
 There is a several initial findings that can be determined just by looking at the data, which are listed below.
 
 <ul>
-  <li>There are <strong>16 satellites</strong> recorded, <strong>5 of which belong to Saturn</strong></li>
-  <li>The satellite with the highest mass is<strong>Ganymede at 148.2 kilograms</strong>, while the satellite with the lowest mass is <strong>Tethys at 0.6173 kilograms</strong></li>
-  <li>The classification <strong>Mid-Earth</strong> has <strong>10 planets and satellites</strong>, making it the classification with the most entities.</li>
+  <li>There are <strong>16 satellites</strong> recorded, <strong>5 of which belong to Saturn</strong>, which is the highest number of satellites attributed to a planet.</li>
+  <li>The satellite with the <strong>highest mass is Ganymede at 148.2 kilograms</strong>, while the satellite with the <strong>lowest mass is Tethys at 0.6173 kilograms.</strong></li>
+  <li>The classification <strong>Mid-Earth has 10 planets and satellites</strong>, making it the classification with the most entities.</li>
 </ul> 
 
 ### Data background
@@ -26,7 +26,7 @@ This [dataset](http://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
 
 It contains:
 <ul>
-  <li><strong>35 rows</strong> of solar system entities (customers and their information)</li>
+  <li><strong>35 rows</strong> of solar system entities</li>
   <li><strong>12 columns</strong> of attributes for entities in the solar system</li>
 </ul>
 
@@ -37,7 +37,7 @@ The columns include:
   <li>body: the name of the satellite</li>
   <li>volume: the volume of the satellite measured in cubic kilometers</li>
   <li>mass: the mass of the satellite measured in kilograms</li>
-  <li>density: the density of the satellite measured in gram per cubic centimetre</li>
+  <li>density: the density of the satellite measured in gram per cubic centimeter</li>
   <li>surface_gravity: the standard gravity measurement of the satellite</li>
 </ul>
 
@@ -89,7 +89,7 @@ The average mass is 39.9509 kilograms, which means that 10 satellites are lower 
 
 The Planetary mass classification organizes planets and satellites by their mass. The categories are:
 
-<ul></ul>
+<ul>
   <li>Hyper-Jupiter: mass over 4131.8</li>
   <li>Super-Jupiter: mass between 635.6 and 4131.8</li>
   <li>Mid-Jupiter: mass between 158.9 and 635.6</li>
@@ -112,7 +112,7 @@ The next inquiry looked at the number of planets and satellites that fell into e
 
 <img src="images/carbon 12 ss.png?raw=true" width="400"/>
 
-Mid-Earth had the most  classifications with 10 planets and satellites, followed closely by Hyper-Jupiter at 7 and Sub-Jupiter at 6. Super-Earth has 4 planest and satellites, midplanet has 3, and Sub-Earth has 2. Mid-Jupiter and Super-Jupiter both have 1 planet and satellite each, putting them at the bottom of the list.
+Mid-Earth had the most  classifications with 10 planets and satellites, followed closely by Hyper-Jupiter at 7 and Sub-Jupiter at 6. Super-Earth has 4 planets and satellites, midplanet has 3, and Sub-Earth has 2. Mid-Jupiter and Super-Jupiter both have 1 planet and satellite each, putting them at the bottom of the list.
 
 <img src="images/12 ss.png?raw=true" width="350"/>
 
