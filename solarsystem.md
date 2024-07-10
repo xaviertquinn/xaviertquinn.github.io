@@ -49,16 +49,16 @@ x
 
 number of satellites
 
-<img src="images/carbon 5 ss.png?raw=true" width="200"/>
+<img src="images/carbon 5 ss.png?raw=true" width="400"/>
 
-<img src="images/5 ss.png?raw=true" width="200"/>
+<img src="images/5 ss.png?raw=true" width="400"/>
 
 
 satellites to planets
 
-<img src="images/carbon 7 ss.png?raw=true" width="200"/>
+<img src="images/carbon 7 ss.png?raw=true" width="400"/>
 
-<img src="images/7 ss.png?raw=true" width="200"/>
+<img src="images/7 ss.png?raw=true" width="400"/>
 
 
 
@@ -78,23 +78,23 @@ x
 
 max
 
-<img src="images/carbon 1 ss.png?raw=true" width="200"/>
+<img src="images/carbon 1 ss.png?raw=true" width="400"/>
 
-<img src="images/1 ss.png?raw=true" width="200"/>
+<img src="images/1 ss.png?raw=true" width="400"/>
 
 
 min
 
-<img src="images/carbon 2 ss.png?raw=true" width="200"/>
+<img src="images/carbon 2 ss.png?raw=true" width="400"/>
 
-<img src="images/2 ss.png?raw=true" width="200"/>
+<img src="images/2 ss.png?raw=true" width="400"/>
 
 
 avg
 
-<img src="images/carbon 3 ss.png?raw=true" width="200"/>
+<img src="images/carbon 3 ss.png?raw=true" width="400"/>
 
-<img src="images/3 ss.png?raw=true" width="200"/>
+<img src="images/3 ss.png?raw=true" width="400"/>
 
 
 
@@ -127,17 +127,17 @@ Using SQL, I created two CASE inquiries that categorized the satellites by this 
 
 The first inquiry classified each satellite into its prospective size category.
 
-<img src="images/carbon 13 ss.png?raw=true" width="200"/>
+<img src="images/carbon 13 ss.png?raw=true" width="400"/>
 
-<img src="images/13 ss.png?raw=true" width="200"/>
+<img src="images/13 ss.png?raw=true" width="400"/>
 
 The next inquiry looked at the number of planets and satellites that fell into each category.
 
-<img src="images/carbon 12 ss.png?raw=true" width="200"/>
+<img src="images/carbon 12 ss.png?raw=true" width="400"/>
 
 <strong>Mid-Earth</strong> had the most satellite classifications with <strong>10 satellites</strong>, followed closely by <strong>Hyper-Jupiter at 7 satellites</strong> and <strong>Sub-Jupiter at 6</strong>.
 
-<img src="images/12 ss.png?raw=true" width="200"/>
+<img src="images/12 ss.png?raw=true" width="400"/>
 
 ### Key insights into planetary satellites
 
