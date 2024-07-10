@@ -51,14 +51,14 @@ number of satellites
 
 <img src="images/carbon 5 ss.png?raw=true" width="400"/>
 
-<img src="images/5 ss.png?raw=true" width="200"/>
+<img src="images/5 ss.png?raw=true" width="350"/>
 
 
 satellites to planets
 
 <img src="images/carbon 7 ss.png?raw=true" width="400"/>
 
-<img src="images/7 ss.png?raw=true" width="200"/>
+<img src="images/7 ss.png?raw=true" width="350"/>
 
 
 
@@ -80,21 +80,21 @@ max
 
 <img src="images/carbon 1 ss.png?raw=true" width="400"/>
 
-<img src="images/1 ss.png?raw=true" width="200"/>
+<img src="images/1 ss.png?raw=true" width="350"/>
 
 
 min
 
 <img src="images/carbon 2 ss.png?raw=true" width="400"/>
 
-<img src="images/2 ss.png?raw=true" width="200"/>
+<img src="images/2 ss.png?raw=true" width="350"/>
 
 
 avg
 
 <img src="images/carbon 3 ss.png?raw=true" width="400"/>
 
-<img src="images/3 ss.png?raw=true" width="200"/>
+<img src="images/3 ss.png?raw=true" width="350"/>
 
 
 
@@ -129,7 +129,9 @@ The first inquiry classified each satellite into its prospective size category.
 
 <img src="images/carbon 13 ss.png?raw=true" width="400"/>
 
-<img src="images/13 ss.png?raw=true" width="200"/>
+Itaque dolore qui perferendis nesciunt. Non aut unde odio dolores. Facilis delectus sunt sequi aut quisquam explicabo nisi tempore.
+
+<img src="images/13 ss.png?raw=true" width="350"/>
 
 The next inquiry looked at the number of planets and satellites that fell into each category.
 
@@ -137,7 +139,7 @@ The next inquiry looked at the number of planets and satellites that fell into e
 
 <strong>Mid-Earth</strong> had the most satellite classifications with <strong>10 satellites</strong>, followed closely by <strong>Hyper-Jupiter at 7 satellites</strong> and <strong>Sub-Jupiter at 6</strong>.
 
-<img src="images/12 ss.png?raw=true" width="200"/>
+<img src="images/12 ss.png?raw=true" width="350"/>
 
 ### Key insights into planetary satellites
 
