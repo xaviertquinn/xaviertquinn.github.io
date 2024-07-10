@@ -34,7 +34,7 @@ I've programmed and visualized the following projects:
 
 
 ---
-🎶 When I am not thinking about data analytics, you will find me listening to music or exploring my family history
+🎶 When I am not working on data projects, you will find me listening to music or exploring my family history
 
 🎧 I'm a huge fan of Joshua Radin and Sleeping At Last
 
