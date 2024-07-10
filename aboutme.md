@@ -28,19 +28,17 @@ In these courses, I've used the following skills to complete projects:
 ---
 I've programmed and visualized the following projects:
 ##### 🍕 [Through the DoorDash: A Look into Customer Data](/doordash)
-##### 🎵 Analyzing Music Artists and Tracks (link coming soon)
 ##### 🪐 Analysis of Solar System Entities (link coming soon)
-##### 🎥 Examination of Netflix Releases (link coming soon)
 ##### 🎼 Exploring Spotify Songs (link coming soon)
-##### 💲 Superstore Sales and Profitability Executive Overview (link coming soon)
-##### 🎉 World Happiness Report, 2015 to 2019 (link coming soon)
+##### 📊 Sales Insights: Customers & Orders (link coming soon)
+
 
 ---
-🎶 When I am not thinking about data analytics, you will find me listening to music or reading books
+🎶 When I am not thinking about data analytics, you will find me listening to music or exploring my family history
 
 🎧 I'm a huge fan of Joshua Radin and Sleeping At Last
 
-📖 I really love cosy fantasy books and can't wait to read more in the genre
+📖 I really love cosy fantasy books and are always looking for more to add to my "to be read" list
 
 🐾 And I love spending time with my cat, Ever
 
