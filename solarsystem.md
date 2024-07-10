@@ -1,6 +1,6 @@
 <img src="images/solar system.png?raw=true"/>
 
-## Analysis of Solar System Entities
+## Analysis of Planetary Satellites
 
 ### Why space?
 
@@ -10,20 +10,15 @@ I still love looking at the stars.
 
 Exploring the entities in space was a fun project to work on. It reignited my love of learning about space.
 
-### What's interesting about these entities?
+### What's interesting about these satellites?
 
-x
-
-
-
-There is a wide range of insights found from the data.
+There is a several insights found from the data.
 
 <ul>
-  <li>The entity with the highest mass is<strong>Ganymede at 148.2</strong>, while entity with the lowest mass is <strong>Tethys at 0.6173</strong></li>
-  <li>There are <strong>16 satellites</strong>, <strong>5 of which belong to Saturn</strong></li>
+  <li>There are <strong>16 satellites</strong> recorded, <strong>5 of which belong to Saturn</strong></li>
+  <li>The satellite with the highest mass is<strong>Ganymede at 148.2</strong>, while the satellite with the lowest mass is <strong>Tethys at 0.6173</strong></li>
   
-  <li>The average spent was <strong>$562.76</strong></li>
-  
+    
   <li>The customer use average is <strong>6.88 years</strong></li>
 </ul> 
 
@@ -41,12 +36,38 @@ One row shows information for an entity, such as volume, mass, and density.
 
 The columns include:
 <ul>
-  <li><strong>body</strong> - </li>
-  <li><strong>volume</strong>WHAT IS IT</li>
-  <li><strong>mass</strong>WHAT IS IT</li>
-  <li><strong>density</strong>WHAT IS IT</li>
-  <li><strong>surface_gravity</strong>WHAT IS IT</li>
+  <li><strong>body</strong> - the name of the satellite</li>
+  <li><strong>volume</strong> - the volume of the satellite measured in cubic kilometers</li>
+  <li><strong>mass</strong> - the mass of the satellite measured in kilograms</li>
+  <li><strong>density</strong> - the density of the satellite measured in gram per cubic centimetre</li>
+  <li><strong>surface_gravity</strong> - the standard gravity measurement of the satellite</li>
 </ul>
+
+### Planet satellites
+
+x
+
+number of satellites
+<img src="images/carbon 5 ss.png?raw=true"/>
+
+<img src="images/5 ss.png?raw=true"/>
+
+satellites to planets
+<img src="images/carbon 7 ss.png?raw=true"/>
+
+<img src="images/7 ss.png?raw=true"/>
+
+
+
+The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
+
+There are two outliers. One has a low income and a high spend value. The other has a high income and a low spend value. These might be accounted for by an error in data collection. Alternatively, the former outlier could be explained by a customer with a low income taking advantage of deals that lower order fees. The latter outlier could be explained by a customer with a high income who only orders from DoorDash once a week for certain meetings. Or a college student using their parents account.
+
+
+Using an IF function, I categorized the time since last order value into groups of 1 week, 1 month, 2 months, 3 months, and 4 months. Using these last order groups, I calculated the total spent in each category using the SUM aggregate function. 
+
+
+The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
 ### Examining mass
 
@@ -77,76 +98,43 @@ It was fairly easy to find the oldest and youngest DoorDash customers. Using a M
 
 In addition, I created an IF function that categorizes each customers' age into a group. This allowed me to answer the question of what age group makes up most of the customer base. As shown below, <strong>ages 36-50 make up 42%</strong> of the customer base, followed by <strong>ages 51-65 at 34%</strong>.
 
-### Planet satellites
 
-x
-
-number of satellites
-<img src="images/carbon 5 ss.png?raw=true"/>
-
-<img src="images/5 ss.png?raw=true"/>
-
-satellites to planets
-<img src="images/carbon 7 ss.png?raw=true"/>
-
-<img src="images/7 ss.png?raw=true"/>
-
-
-
-The total spent on DoorDash orders was <strong>$1.2 million</strong>. With an <strong>R squared value of 0.67</strong>, 67% of the change in amount spent can be explained by a change in income.
-
-There are two outliers. One has a low income and a high spend value. The other has a high income and a low spend value. These might be accounted for by an error in data collection. Alternatively, the former outlier could be explained by a customer with a low income taking advantage of deals that lower order fees. The latter outlier could be explained by a customer with a high income who only orders from DoorDash once a week for certain meetings. Or a college student using their parents account.
-
-
-Using an IF function, I categorized the time since last order value into groups of 1 week, 1 month, 2 months, 3 months, and 4 months. Using these last order groups, I calculated the total spent in each category using the SUM aggregate function. 
-
-
-The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A campaign or reduction of fees might account for this increase in the total spent. The least amount spent, at <strong>$102,241</strong> was in the 1 week category. This might be accounted for by the smaller category size. 1 week vs 1 month is a big difference in time. However, at 1 month, the total spent was <strong>$292,622</strong>. A difference of $63,475 between 1 month and <strong>$356,097</strong> at 2 months is still a significant change. Again, this might be accounted for by a campaign or deal on the app, or that month might have had a big holiday or school event, such as finals week.
 
 ### Examination of the satellites
-Average Spent Amount
 
-x
+The Planetary mass classification organizes planets and satellites by their mass. The categories are:
 
-number of satellites by size category
-<img src="images/carbon 12 ss.png?raw=true"/>
+<ul></ul>
+  <li>Hyper-Jupiter: mass over 4131.8</li>
+  <li>Super-Jupiter: mass between 635.6 and 4131.8</li>
+  <li>Mid-Jupiter: mass between 158.9 and 635.6</li>
+  <li>Sub-Jupiter: mass between 31.8 and 158.9</li>
+  <li>Midplanet: mass between 10 an 31.8</li>
+  <li>Super-Earth: mass between 2 and 10</li>
+  <li>Mid-Earth: mass between 0.5 and 2</li>
+  <li>Sub-Earth: mass below 0.5</li>
+</ul>
 
-<img src="images/12 ss.png?raw=true"/>
+Using SQL, I created two CASE inquiries that categorized the satellites by this classification.
 
-x
+The first inquiry classified each satellite into its prospective size category.
 
-satellites and size category
 <img src="images/carbon 13 ss.png?raw=true"/>
 
 <img src="images/13 ss.png?raw=true"/>
 
+The next inquiry looked at the number of planets and satellites that fell into each category.
 
+<img src="images/carbon 12 ss.png?raw=true"/>
 
-Finding the average amount spent was pretty simple. The AVERAGE aggregate function calculated <strong>$562.76</strong> as the average. <strong>40%</strong> of customers spent over the average amount. The other <strong>60%</strong> spent under the average amount. 
+<strong>Mid-Earth</strong> had the most satellite classifications with <strong>10 satellites</strong>, followed closely by <strong>Hyper-Jupiter at 7 satellites</strong> and <strong>Sub-Jupiter at 6</strong>.
 
+<img src="images/12 ss.png?raw=true"/>
 
-The age group that spent the most was customers who are <strong>66 years old and above</strong>, followed by those <strong>51-65 years old</strong>. This might be explained by customers getting a promotion and increase in salary or reaching retirement age. Likewise, it could be inferred that those who are older order more because of health problems that prevent them from cooking regularly.
-
-
-### Exploration of x
-Average Customer Use
-
-x
-
-Using an AVERAGE aggregate function, the average customer use of DoorDash was calculated to be <strong>6.88 years</strong>. This is supported by the above graph showing the average spent by age group. Each group is at least 6 years and the amount spent continuously increases since 36 years of age. 
-
-<strong>1,108 customers</strong> have used DoorDash longer than the average, while <strong>1,097 customers</strong> have used DoorDash less than the average amount of time. 
-
-
-The age group with the most customers over the average use time is <strong>36-50 years old</strong>. This age group also have the most customers under the average use time. This means most of the customers in that age group started using DoorDash when they were <strong>24-35 years of age</strong>.
-
-
-### Key insights for x
-DoorDash Marketing
+### Key insights into planetary satellites
 
 x
 
-Marketing insights for DoorDash to increase their customer base and revenue.
 
 <ul>
   <li>Campaigns should focus on <strong>customers age 36-50 and 51-60</strong> as they are the largest age demographics in the customer base.</li>
@@ -158,6 +146,8 @@ Marketing insights for DoorDash to increase their customer base and revenue.
 To reiterate, DoorDash has a large variety of customers. Age ranges from <strong>24 years old to 80 years old</strong>. Customers spent <strong>$562.76 on average</strong>, resulting in a <strong>total of $1.2 million</strong>, being spent on food delivery. The average time a customer used the app was <strong>6.88 years</strong>.
 
 In addition, marketing insights are provided to increase DoorDash customers and company revenue. Certain <strong>age groups should be targeted</strong> through specific advertising campaigns.
+
+
 
 Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Any information would be very helpful!
 
