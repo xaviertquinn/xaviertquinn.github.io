@@ -8,6 +8,7 @@
 
 ##### [SQL projects](/sql)
 ##### [Tableau projects](/tableau)
+##### [Excel projects](/excel)
 ##### [MySQL projects](/mysql)
 ##### [Power BI projects](/power_bi)
 ##### [Python projects](/link)
