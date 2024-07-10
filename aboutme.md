@@ -31,10 +31,11 @@ I've programmed and visualized the following projects:
 ##### 🪐 [Analysis of Solar System Entities](/solarsystem)
 ##### 🎼 Exploring Spotify Songs (link coming soon)
 ##### 📊 Sales Insights: Customers & Orders (link coming soon)
-
+##### 🏪 Superstore Sales and Profitability Executive Overview (link coming soon)
+##### 😄 World Happiness Report, 2015 to 2019 (link coming soon)
 
 ---
-🎶 When I am not working on data projects, you will find me listening to music or exploring my family history
+🎶 When I am not working on data projects or learning something new, I'm listening to music or exploring my family history
 
 🎧 I'm a huge fan of Joshua Radin and Sleeping At Last
 
@@ -45,9 +46,8 @@ I've programmed and visualized the following projects:
 ---
 Interested in talking about my career path or just want to connect?
 
-Send me an email @ xaviertquinn@gmail.com! 📧
+📧 Send me an email @ xaviertquinn@gmail.com!
 
-Or message me on <a href="https://www.linkedin.com/in/xaviertquinn/">LinkedIn</a> 🔗
+Or send me a message on <a href="https://www.linkedin.com/in/xaviertquinn/">LinkedIn</a> 🔗
 
 ---
-
