@@ -48,6 +48,7 @@ The columns include:
 x
 
 number of satellites
+
 <img src="images/carbon 5 ss.png?raw=true" width="200"/>
 
 <img src="images/5 ss.png?raw=true" width="200"/>
