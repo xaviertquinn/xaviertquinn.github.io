@@ -9,10 +9,10 @@
 ##### [SQL projects](/sql)
 ##### [Tableau projects](/tableau)
 ##### [Excel projects](/excel)
-##### [MySQL projects](/mysql)
-##### [Power BI projects](/power_bi)
-##### [Python projects](/link)
-##### [R projects](/link)
+##### [MySQL projects](/mysql) (coming soon)
+##### [Power BI projects](/power_bi) (coming soon)
+##### [Python projects](/link) (coming soon)
+##### [R projects](/link) (coming soon)
 
 ---
 
