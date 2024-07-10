@@ -53,7 +53,9 @@ number of satellites
 
 <img src="images/5 ss.png?raw=true" width="200"/>
 
+
 satellites to planets
+
 <img src="images/carbon 7 ss.png?raw=true" width="200"/>
 
 <img src="images/7 ss.png?raw=true" width="200"/>
@@ -75,16 +77,21 @@ The most spent was 3 months ago, with a total of <strong>$380,536</strong>. A ca
 x
 
 max
+
 <img src="images/carbon 1 ss.png?raw=true" width="200"/>
 
 <img src="images/1 ss.png?raw=true" width="200"/>
 
+
 min
+
 <img src="images/carbon 2 ss.png?raw=true" width="200"/>
 
 <img src="images/2 ss.png?raw=true" width="200"/>
 
+
 avg
+
 <img src="images/carbon 3 ss.png?raw=true" width="200"/>
 
 <img src="images/3 ss.png?raw=true" width="200"/>
