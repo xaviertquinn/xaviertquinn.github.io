@@ -128,4 +128,4 @@ To conclude, Massachusetts bottom 10 schools contain <strong>3 public schools fr
 
 In addition, educational insights are provided to increase students and ratings. <strong>Schools with more disadvantaged students</strong> should be given <strong>more support to improve</strong>.
 
-Thanks for reading! If you have any questions, please email me. Also, I am currently looking for a <strong>full-time job as a data analyst</strong>, so if you have any recommendations or opportunities, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Thanks!
+Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time remote job as a data analyst</strong>, so if you have any recommendations, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Any information would be very helpful!
