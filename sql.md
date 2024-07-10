@@ -1,5 +1,6 @@
 <img src="images/solar system.png?raw=true"/>
 #### [Solar System Entities SQL Project](/solarsystem)
+<br>
 Small dataset collected from Wikipedia analyzed to answer the following quiries:
 <ul>
   <li>How many satellites are there and which planet has the most?</li>
