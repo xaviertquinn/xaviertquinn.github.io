@@ -99,14 +99,12 @@ The Planetary mass classification organizes planets and satellites by their mass
   <li>Mid-Earth: mass between 0.5 and 2</li>
   <li>Sub-Earth: mass below 0.5</li>
 </ul>
-
+<br>
 Using SQL, I created two CASE inquiries that categorized the satellites by this classification.
 
 The first inquiry classified each satellite into its prospective size category.
 
 <img src="images/carbon 13 ss.png?raw=true" width="400"/>
-
-Mid-Earth is at the top of the list, with 10 satellites. Hyper-Jupiter follows at 7 satellites and then Sub-Jupiter at 6. Super-Earth has 4 satellites, midplanet has 3, and Sub-Earth has 2. Mid-Jupiter and Super-Jupiter both have 1 satellite each, putting them at the bottom of the list.
 
 <img src="images/13 ss.png?raw=true" width="350"/>
 
@@ -114,14 +112,11 @@ The next inquiry looked at the number of planets and satellites that fell into e
 
 <img src="images/carbon 12 ss.png?raw=true" width="400"/>
 
-Mid-Earth had the most  classifications with 10 planets and satellites, followed closely by Hyper-Jupiter at 7 and Sub-Jupiter at 6.
+Mid-Earth had the most  classifications with 10 planets and satellites, followed closely by Hyper-Jupiter at 7 and Sub-Jupiter at 6. Super-Earth has 4 planest and satellites, midplanet has 3, and Sub-Earth has 2. Mid-Jupiter and Super-Jupiter both have 1 planet and satellite each, putting them at the bottom of the list.
 
 <img src="images/12 ss.png?raw=true" width="350"/>
 
 ### Key insights into planetary satellites
-
-x
-
 
 <ul>
   <li><strong>Saturn has the most satellites, possessing <strong>5 satellites out of the 16 recorded.
