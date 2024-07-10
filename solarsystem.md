@@ -119,7 +119,7 @@ Mid-Earth had the most  classifications with 10 planets and satellites, followed
 ### Key insights into planetary satellites
 
 <ul>
-  <li><strong>Saturn has the most satellites, possessing <strong>5 satellites out of the 16 recorded.
+  <li>Saturn has the most satellites, possessing <strong>5 satellites out of the 16 recorded</strong>.
   <li><strong>Ganymede</strong>, a satellite of Jupiter, has the <strong>highest mass of 148.2 kilograms</strong>. The satellite with the lowest mass is <strong>Tethys</strong>, one of Saturn's satellites, with <strong>0.6173 kilograms</strong>.</li>
   <li>The <strong>average mass</strong> is <strong>39.9509 kilograms</strong>. This means that <strong>10 satellites</strong> are lower than the average and <strong>6</strong> are higher.</li>
   <li>Planetary mass classification of <strong>Mid-Earth</strong> has <strong>10 planets and satellites</strong>, followed by Hyper-Jupiter with 7 and Sub-Jupiter with 6.</li>
