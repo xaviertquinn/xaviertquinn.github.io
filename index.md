@@ -4,18 +4,13 @@
 
 ---
 
-### [My Projects[(/projects)
+### [My Projects](/projects)
 
 ##### [SQL projects](/sql)
-
 ##### [Tableau projects](/tableau)
-
 ##### [MySQL projects](/mysql)
-
 ##### [Power BI projects](/power_bi)
-
 ##### [Python projects](/link)
-
 ##### [R projects](/link)
 
 ---
