@@ -19,7 +19,9 @@
 ### LinkedIn Articles
 
 [DoorDash Project](https://www.linkedin.com/pulse/through-doordash-look-customer-data-xavier-quinn/)  <br>
-[New Project (coming soon)](/link)  <br>
+[Massachusetts Education System](https://www.linkedin.com/pulse/classroom-learning-massachusetts-education-system-xavier-quinn-xlc9e/)  <br>
+[Coming soon](/link)  <br>
+
 
 ---
 
