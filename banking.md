@@ -114,3 +114,6 @@ To reiterate, DoorDash has a large variety of customers. Age ranges from <strong
 In addition, marketing insights are provided to increase DoorDash customers and company revenue. Certain <strong>age groups should be targeted</strong> through specific advertising campaigns.
 
 Thanks for reading! If you have any questions, please email me at the email below. Also, I am looking for a <strong>full-time remote job as a data analyst</strong>, so if you have any recommendations, please message me on [LinkedIn](https://www.linkedin.com/in/xaviertquinn/) or email me at xaviertquinn@gmail.com. Any information would be very helpful!
+---
+
+### [Back to home](/index)
