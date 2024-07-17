@@ -115,4 +115,4 @@ Thanks for reading! If you have any questions, please email me at the email belo
 
 ---
 
-### [Next project](/massachusetts)
+### [Back to home](/index)
