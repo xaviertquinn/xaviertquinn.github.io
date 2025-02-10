@@ -41,14 +41,7 @@ I've programmed and visualized the following projects:
 
 📖 I really love cosy fantasy books and are always looking for more to add to my "to be read" list
 
-🐾 And I love spending time with my cat, Ever
-
----
-Interested in talking about my career path or just want to connect?
-
-📧 Send me an email @ xaviertquinn@gmail.com!
-
-Or send me a message on <a href="https://www.linkedin.com/in/xaviertquinn/">LinkedIn</a> 🔗
+🐾 And I love spending time with my cat
 
 ---
 
