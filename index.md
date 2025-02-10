@@ -25,8 +25,4 @@
 
 ---
 
-### [My resume](XavierQuinn_Resume.pdf)
-
----
-
 
